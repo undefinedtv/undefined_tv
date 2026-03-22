@@ -648,99 +648,99 @@ https://nw5mr1vl9xp4zk2sh7tq3gj6b.medya.trt.com.tr/master_1440p.m3u8
 #EXTINF:-1 tvg-name="Tabii" tvg-id="" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="Tabii Spor",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 
-#EXTINF:-1 tvg-name="mono (pipe)",mono (pipe)
+#EXTINF:-1 group-title="test" tvg-name="mono (pipe)",mono (pipe)
 https://f0f.zirvedesin215.cfd/b2/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&Referer=https://app.erosyonetim.com/&Origin=https://app.erosyonetim.com
 
-#EXTINF:-1 tvg-name="index (pipe)",index (pipe)
+#EXTINF:-1 group-title="test" tvg-name="index (pipe)",index (pipe)
 https://f0f.zirvedesin215.cfd/b2/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&Referer=https://app.erosyonetim.com/&Origin=https://app.erosyonetim.com
 
-#EXTINF:-1 tvg-name="playlist (pipe)",playlist (pipe)
+#EXTINF:-1 group-title="test" tvg-name="playlist (pipe)",playlist (pipe)
 https://f0f.zirvedesin215.cfd/b2/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&Referer=https://app.erosyonetim.com/&Origin=https://app.erosyonetim.com
 
-#EXTINF:-1 tvg-name="stream (pipe)",stream (pipe)
+#EXTINF:-1 group-title="test" tvg-name="stream (pipe)",stream (pipe)
 https://f0f.zirvedesin215.cfd/b2/stream.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&Referer=https://app.erosyonetim.com/&Origin=https://app.erosyonetim.com
 
-#EXTINF:-1 tvg-name="live (pipe)",live (pipe)
+#EXTINF:-1 group-title="test" tvg-name="live (pipe)",live (pipe)
 https://f0f.zirvedesin215.cfd/b2/live.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&Referer=https://app.erosyonetim.com/&Origin=https://app.erosyonetim.com
 
-#EXTINF:-1 tvg-name="chunklist (pipe)",chunklist (pipe)
+#EXTINF:-1 group-title="test" tvg-name="chunklist (pipe)",chunklist (pipe)
 https://f0f.zirvedesin215.cfd/b2/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&Referer=https://app.erosyonetim.com/&Origin=https://app.erosyonetim.com
 
-#EXTINF:-1 tvg-name="360p (pipe)",360p (pipe)
+#EXTINF:-1 group-title="test" tvg-name="360p (pipe)",360p (pipe)
 https://f0f.zirvedesin215.cfd/b2/360p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&Referer=https://app.erosyonetim.com/&Origin=https://app.erosyonetim.com
 
-#EXTINF:-1 tvg-name="480p (pipe)",480p (pipe)
+#EXTINF:-1 group-title="test" tvg-name="480p (pipe)",480p (pipe)
 https://f0f.zirvedesin215.cfd/b2/480p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&Referer=https://app.erosyonetim.com/&Origin=https://app.erosyonetim.com
 
-#EXTINF:-1 tvg-name="720p (pipe)",720p (pipe)
+#EXTINF:-1 group-title="test" tvg-name="720p (pipe)",720p (pipe)
 https://f0f.zirvedesin215.cfd/b2/720p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&Referer=https://app.erosyonetim.com/&Origin=https://app.erosyonetim.com
 
-#EXTINF:-1 tvg-name="1080p (pipe)",1080p (pipe)
+#EXTINF:-1 group-title="test" tvg-name="1080p (pipe)",1080p (pipe)
 https://f0f.zirvedesin215.cfd/b2/1080p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&Referer=https://app.erosyonetim.com/&Origin=https://app.erosyonetim.com
 
 
-#EXTINF:-1 tvg-name="mono (VLC)",mono (VLC)
+#EXTINF:-1 group-title="test" tvg-name="mono (VLC)",mono (VLC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://app.erosyonetim.com/
 #EXTVLCOPT:http-origin=https://app.erosyonetim.com
 https://f0f.zirvedesin215.cfd/b2/mono.m3u8
 
-#EXTINF:-1 tvg-name="index (VLC)",index (VLC)
+#EXTINF:-1 group-title="test" tvg-name="index (VLC)",index (VLC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://app.erosyonetim.com/
 #EXTVLCOPT:http-origin=https://app.erosyonetim.com
 https://f0f.zirvedesin215.cfd/b2/index.m3u8
 
-#EXTINF:-1 tvg-name="playlist (VLC)",playlist (VLC)
+#EXTINF:-1 group-title="test" tvg-name="playlist (VLC)",playlist (VLC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://app.erosyonetim.com/
 #EXTVLCOPT:http-origin=https://app.erosyonetim.com
 https://f0f.zirvedesin215.cfd/b2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="stream (VLC)",stream (VLC)
+#EXTINF:-1 group-title="test" tvg-name="stream (VLC)",stream (VLC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://app.erosyonetim.com/
 #EXTVLCOPT:http-origin=https://app.erosyonetim.com
 https://f0f.zirvedesin215.cfd/b2/stream.m3u8
 
-#EXTINF:-1 tvg-name="live (VLC)",live (VLC)
+#EXTINF:-1 group-title="test" tvg-name="live (VLC)",live (VLC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://app.erosyonetim.com/
 #EXTVLCOPT:http-origin=https://app.erosyonetim.com
 https://f0f.zirvedesin215.cfd/b2/live.m3u8
 
-#EXTINF:-1 tvg-name="chunklist (VLC)",chunklist (VLC)
+#EXTINF:-1 group-title="test" tvg-name="chunklist (VLC)",chunklist (VLC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://app.erosyonetim.com/
 #EXTVLCOPT:http-origin=https://app.erosyonetim.com
 https://f0f.zirvedesin215.cfd/b2/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="360p (VLC)",360p (VLC)
+#EXTINF:-1 group-title="test" tvg-name="360p (VLC)",360p (VLC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://app.erosyonetim.com/
 #EXTVLCOPT:http-origin=https://app.erosyonetim.com
 https://f0f.zirvedesin215.cfd/b2/360p.m3u8
 
-#EXTINF:-1 tvg-name="480p (VLC)",480p (VLC)
+#EXTINF:-1 group-title="test" tvg-name="480p (VLC)",480p (VLC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://app.erosyonetim.com/
 #EXTVLCOPT:http-origin=https://app.erosyonetim.com
 https://f0f.zirvedesin215.cfd/b2/480p.m3u8
 
-#EXTINF:-1 tvg-name="720p (VLC)",720p (VLC)
+#EXTINF:-1 group-title="test" tvg-name="720p (VLC)",720p (VLC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://app.erosyonetim.com/
 #EXTVLCOPT:http-origin=https://app.erosyonetim.com
 https://f0f.zirvedesin215.cfd/b2/720p.m3u8
 
-#EXTINF:-1 tvg-name="1080p (VLC)",1080p (VLC)
+#EXTINF:-1 group-title="test" tvg-name="1080p (VLC)",1080p (VLC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://app.erosyonetim.com/
 #EXTVLCOPT:http-origin=https://app.erosyonetim.com
 https://f0f.zirvedesin215.cfd/b2/1080p.m3u8
 
 
-#EXTINF:-1 tvg-name="mono (Kodi)",mono (Kodi)
+#EXTINF:-1 group-title="test" tvg-name="mono (Kodi)",mono (Kodi)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
@@ -748,7 +748,7 @@ https://f0f.zirvedesin215.cfd/b2/1080p.m3u8
 #KODIPROP:http-origin=https://app.erosyonetim.com
 https://f0f.zirvedesin215.cfd/b2/mono.m3u8
 
-#EXTINF:-1 tvg-name="index (Kodi)",index (Kodi)
+#EXTINF:-1 group-title="test" tvg-name="index (Kodi)",index (Kodi)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
@@ -756,7 +756,7 @@ https://f0f.zirvedesin215.cfd/b2/mono.m3u8
 #KODIPROP:http-origin=https://app.erosyonetim.com
 https://f0f.zirvedesin215.cfd/b2/index.m3u8
 
-#EXTINF:-1 tvg-name="playlist (Kodi)",playlist (Kodi)
+#EXTINF:-1 group-title="test" tvg-name="playlist (Kodi)",playlist (Kodi)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
@@ -764,7 +764,7 @@ https://f0f.zirvedesin215.cfd/b2/index.m3u8
 #KODIPROP:http-origin=https://app.erosyonetim.com
 https://f0f.zirvedesin215.cfd/b2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="stream (Kodi)",stream (Kodi)
+#EXTINF:-1 group-title="test" tvg-name="stream (Kodi)",stream (Kodi)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
@@ -772,7 +772,7 @@ https://f0f.zirvedesin215.cfd/b2/playlist.m3u8
 #KODIPROP:http-origin=https://app.erosyonetim.com
 https://f0f.zirvedesin215.cfd/b2/stream.m3u8
 
-#EXTINF:-1 tvg-name="live (Kodi)",live (Kodi)
+#EXTINF:-1 group-title="test" tvg-name="live (Kodi)",live (Kodi)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
@@ -780,7 +780,7 @@ https://f0f.zirvedesin215.cfd/b2/stream.m3u8
 #KODIPROP:http-origin=https://app.erosyonetim.com
 https://f0f.zirvedesin215.cfd/b2/live.m3u8
 
-#EXTINF:-1 tvg-name="720p (Kodi)",720p (Kodi)
+#EXTINF:-1 group-title="test" tvg-name="720p (Kodi)",720p (Kodi)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
@@ -788,10 +788,11 @@ https://f0f.zirvedesin215.cfd/b2/live.m3u8
 #KODIPROP:http-origin=https://app.erosyonetim.com
 https://f0f.zirvedesin215.cfd/b2/720p.m3u8
 
-#EXTINF:-1 tvg-name="1080p (Kodi)",1080p (Kodi)
+#EXTINF:-1 group-title="test" tvg-name="1080p (Kodi)",1080p (Kodi)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #KODIPROP:http-referrer=https://app.erosyonetim.com/
 #KODIPROP:http-origin=https://app.erosyonetim.com
 https://f0f.zirvedesin215.cfd/b2/1080p.m3u8
+
