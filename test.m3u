@@ -3,26 +3,6 @@
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Galatasaray - Kocaelispor | Trendyol Süper Lig
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,16:00 | Adana Demirspor - Iğdirspor | Trendyol 1. Lig
-https://andro.226503.xyz/checklist/androstreamlivetrts.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,16:00 | Crystal Palace - Newcastle | İngiltere Premier Lig
-https://andro.226503.xyz/checklist/androstreamlivebsm1.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,16:00 | Nottingham Forest - Aston Villa | İngiltere Premier Lig
-https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,16:00 | Sunderland - Tottenham | İngiltere Premier Lig
-https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,16:00 | Nilüfer Bld. - Aras Kargo | TVF Sultanlar Ligi Play-Off
-https://andro.226503.xyz/checklist/androstreamlivetb.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,16:00 | Ziraat Bankkart - Spor Toto SK | TVF Efeler Ligi
-https://andro.226503.xyz/checklist/androstreamlivetrtsy.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,16:00 | Parma - Napoli | İtalya Serie A
-https://andro.226503.xyz/checklist/androstreamlivess2.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,16:00 | Final | Final
-https://andro.226503.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,16:00 | Tayland - Güney Kore | AFC U20 Kadinlar Asya Kupasi Çeyrek Final
-https://andro.226503.xyz/checklist/androstreamlivesm2.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,16:30 | Köln - Werder Bremen | Almanya Bundesliga
-https://andro.226503.xyz/checklist/androstreamlivets2.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,17:00 | Turan - Sumqayit | Azerbaycan Premier Ligi
 https://andro.226503.xyz/checklist/androstreamlivecbcs.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,17:15 | Mallorca - Rayo Vallecano | İspanya La Liga
@@ -107,46 +87,46 @@ https://andro.226503.xyz/checklist/androstreamlivess1.m3u8
 https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 group-title="Rec Tv",BeIN Sports 1 A
 #EXTVLCOPT:http-user-agent=googleusercontent
-https://st222.sbs/static/bs1.m3u8
+https://st111.lol/static/bs1.m3u8
 #EXTINF:-1 group-title="Rec Tv",BeIN Sports 1 B
 #EXTVLCOPT:http-user-agent=googleusercontent
-https://st222.sbs/static/bs11.m3u8
+https://st111.lol/static/bs11.m3u8
 #EXTINF:-1 group-title="Rec Tv",BeIN Sports 2
 #EXTVLCOPT:http-user-agent=googleusercontent
-https://st222.sbs/static/bs2.m3u8
+https://st111.lol/static/bs2.m3u8
 #EXTINF:-1 group-title="Rec Tv",BeIN Sports 3
 #EXTVLCOPT:http-user-agent=googleusercontent
-https://st222.sbs/static/bs3.m3u8
+https://st111.lol/static/bs3.m3u8
 #EXTINF:-1 group-title="Rec Tv",BeIN Sports 4
 #EXTVLCOPT:http-user-agent=googleusercontent
-https://st222.sbs/static/bs4.m3u8
+https://st111.lol/static/bs4.m3u8
 #EXTINF:-1 group-title="Rec Tv",BeIN Sports 5
 #EXTVLCOPT:http-user-agent=googleusercontent
-https://st222.sbs/static/bs5.m3u8
+https://st111.lol/static/bs5.m3u8
 #EXTINF:-1 group-title="Rec Tv",S SPORT HD 1
 #EXTVLCOPT:http-user-agent=googleusercontent
-https://st222.sbs/static/ss11.m3u8
+https://st111.lol/static/ss11.m3u8
 #EXTINF:-1 group-title="Rec Tv",S SPORT HD 2
 #EXTVLCOPT:http-user-agent=googleusercontent
-https://st222.sbs/static/ss2.m3u8
+https://st111.lol/static/ss2.m3u8
 #EXTINF:-1 group-title="Rec Tv",S SPORT+ PLUS HD 1
 #EXTVLCOPT:http-user-agent=googleusercontent
-https://st222.sbs/static/pl1.m3u8
+https://st111.lol/static/pl1.m3u8
 #EXTINF:-1 group-title="Rec Tv",S SPORT+ PLUS HD 2
 #EXTVLCOPT:http-user-agent=googleusercontent
-https://st222.sbs/static/pl2.m3u8
+https://st111.lol/static/pl2.m3u8
 #EXTINF:-1 group-title="Rec Tv",S SPORT+ PLUS HD 3
 #EXTVLCOPT:http-user-agent=googleusercontent
-https://st222.sbs/static/pl3.m3u8
+https://st111.lol/static/pl3.m3u8
 #EXTINF:-1 group-title="Rec Tv",S SPORT+ PLUS HD 4
 #EXTVLCOPT:http-user-agent=googleusercontent
-https://st222.sbs/static/pl4.m3u8
+https://st111.lol/static/pl4.m3u8
 #EXTINF:-1 group-title="Rec Tv",S SPORT+ PLUS HD 5
 #EXTVLCOPT:http-user-agent=googleusercontent
-https://st222.sbs/static/pl5.m3u8
+https://st111.lol/static/pl5.m3u8
 #EXTINF:-1 group-title="Rec Tv",S SPORT+ PLUS HD 6
 #EXTVLCOPT:http-user-agent=googleusercontent
-https://st222.sbs/static/pl6.m3u8
+https://st111.lol/static/pl6.m3u8
 #EXTINF:-1 group-title="Zeus TV" ,Bein 1
 https://zeustv432423.info/b1/index.m3u8
 #EXTINF:-1 group-title="Zeus TV" ,Bein 2
@@ -289,34 +269,6 @@ https://black-snow-b418.yedekfis.workers.dev/https://corestream.ronaldovurdu.hel
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.77cea06653da22.click/live/selcukobs1/playlist.m3u8
-#EXTINF:-1 tvg-id="parma---napoli16-00" group-title="Selcuk TV",Parma - Napoli16:00
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcuktivibuspor1/playlist.m3u8
-#EXTINF:-1 tvg-id="crystal-palace---newcastle16-00" group-title="Selcuk TV",Crystal Palace - Newcastle16:00
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsportsmax1/playlist.m3u8
-#EXTINF:-1 tvg-id="tayland---guney-kore16-00" group-title="Selcuk TV",Tayland - Güney Kore16:00
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcuksmartspor/playlist.m3u8
-#EXTINF:-1 tvg-id="nottingham-forest---aston-villa16-00" group-title="Selcuk TV",Nottingham Forest - Aston Villa16:00
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports4/playlist.m3u8
-#EXTINF:-1 tvg-id="sunderland---tottenham16-00" group-title="Selcuk TV",Sunderland - Tottenham16:00
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports3/playlist.m3u8
-#EXTINF:-1 tvg-id="adana-demirspor---igdirspor16-00" group-title="Selcuk TV",Adana Demirspor - Iğdırspor16:00
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcuktrtspor/playlist.m3u8
-#EXTINF:-1 tvg-id="koln---werder-bremen16-30" group-title="Selcuk TV",Köln - Werder Bremen16:30
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcuktivibuspor2/playlist.m3u8
 #EXTINF:-1 tvg-id="goztepe---kasimpasa17-00" group-title="Selcuk TV",Göztepe - Kasımpaşa17:00
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -329,22 +281,22 @@ https://dga1op10s1u3leo.77cea06653da22.click/live/selcukssport/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.77cea06653da22.click/live/selcuktivibuspor4/playlist.m3u8
-#EXTINF:-1 tvg-id="toulouse---lille18-15" group-title="Selcuk TV",Toulouse - Lille18:15
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports4/playlist.m3u8
 #EXTINF:-1 tvg-id="nice---le-havre18-15" group-title="Selcuk TV",Nice - Le Havre18:15
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsportsmax1/playlist.m3u8
-#EXTINF:-1 tvg-id="chelsea---manchester-city18-30" group-title="Selcuk TV",Chelsea - Manchester City18:30
+#EXTINF:-1 tvg-id="toulouse---lille18-15" group-title="Selcuk TV",Toulouse - Lille18:15
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports3/playlist.m3u8
+https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports4/playlist.m3u8
 #EXTINF:-1 tvg-id="stuttgart---hamburg18-30" group-title="Selcuk TV",Stuttgart - Hamburg18:30
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.77cea06653da22.click/live/selcuktivibuspor3/playlist.m3u8
+#EXTINF:-1 tvg-id="chelsea---manchester-city18-30" group-title="Selcuk TV",Chelsea - Manchester City18:30
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports3/playlist.m3u8
 #EXTINF:-1 tvg-id="keciorengucu---serik-bld19-00" group-title="Selcuk TV",Keçiörengücü - Serik Bld.19:00
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -369,14 +321,14 @@ https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports1/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.77cea06653da22.click/live/selcuktivibuspor2/playlist.m3u8
-#EXTINF:-1 tvg-id="lyon---lorient21-45" group-title="Selcuk TV",Lyon - Lorient21:45
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports4/playlist.m3u8
 #EXTINF:-1 tvg-id="como---inter21-45" group-title="Selcuk TV",Como - Inter21:45
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.77cea06653da22.click/live/selcuktivibuspor1/playlist.m3u8
+#EXTINF:-1 tvg-id="lyon---lorient21-45" group-title="Selcuk TV",Lyon - Lorient21:45
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports4/playlist.m3u8
 #EXTINF:-1 tvg-id="athletic-bilbao---villarreal22-00" group-title="Selcuk TV",Athletic Bilbao - Villarreal22:00
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -401,34 +353,6 @@ https://dga1op10s1u3leo.77cea06653da22.click/live/selcuksmartspor/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.77cea06653da22.click/live/selcukobs1/playlist.m3u8
-#EXTINF:-1 tvg-id="parma---napoli16-00" group-title="Selcuk TV",Parma - Napoli16:00
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcuktivibuspor1/playlist.m3u8
-#EXTINF:-1 tvg-id="crystal-palace---newcastle16-00" group-title="Selcuk TV",Crystal Palace - Newcastle16:00
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsportsmax1/playlist.m3u8
-#EXTINF:-1 tvg-id="tayland---guney-kore16-00" group-title="Selcuk TV",Tayland - Güney Kore16:00
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcuksmartspor/playlist.m3u8
-#EXTINF:-1 tvg-id="nottingham-forest---aston-villa16-00" group-title="Selcuk TV",Nottingham Forest - Aston Villa16:00
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports4/playlist.m3u8
-#EXTINF:-1 tvg-id="sunderland---tottenham16-00" group-title="Selcuk TV",Sunderland - Tottenham16:00
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports3/playlist.m3u8
-#EXTINF:-1 tvg-id="adana-demirspor---igdirspor16-00" group-title="Selcuk TV",Adana Demirspor - Iğdırspor16:00
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcuktrtspor/playlist.m3u8
-#EXTINF:-1 tvg-id="koln---werder-bremen16-30" group-title="Selcuk TV",Köln - Werder Bremen16:30
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcuktivibuspor2/playlist.m3u8
 #EXTINF:-1 tvg-id="goztepe---kasimpasa17-00" group-title="Selcuk TV",Göztepe - Kasımpaşa17:00
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -441,22 +365,22 @@ https://dga1op10s1u3leo.77cea06653da22.click/live/selcukssport/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.77cea06653da22.click/live/selcuktivibuspor4/playlist.m3u8
-#EXTINF:-1 tvg-id="toulouse---lille18-15" group-title="Selcuk TV",Toulouse - Lille18:15
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports4/playlist.m3u8
 #EXTINF:-1 tvg-id="nice---le-havre18-15" group-title="Selcuk TV",Nice - Le Havre18:15
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsportsmax1/playlist.m3u8
-#EXTINF:-1 tvg-id="chelsea---manchester-city18-30" group-title="Selcuk TV",Chelsea - Manchester City18:30
+#EXTINF:-1 tvg-id="toulouse---lille18-15" group-title="Selcuk TV",Toulouse - Lille18:15
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports3/playlist.m3u8
+https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports4/playlist.m3u8
 #EXTINF:-1 tvg-id="stuttgart---hamburg18-30" group-title="Selcuk TV",Stuttgart - Hamburg18:30
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.77cea06653da22.click/live/selcuktivibuspor3/playlist.m3u8
+#EXTINF:-1 tvg-id="chelsea---manchester-city18-30" group-title="Selcuk TV",Chelsea - Manchester City18:30
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports3/playlist.m3u8
 #EXTINF:-1 tvg-id="keciorengucu---serik-bld19-00" group-title="Selcuk TV",Keçiörengücü - Serik Bld.19:00
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -481,14 +405,14 @@ https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports1/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.77cea06653da22.click/live/selcuktivibuspor2/playlist.m3u8
-#EXTINF:-1 tvg-id="lyon---lorient21-45" group-title="Selcuk TV",Lyon - Lorient21:45
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports4/playlist.m3u8
 #EXTINF:-1 tvg-id="como---inter21-45" group-title="Selcuk TV",Como - Inter21:45
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.77cea06653da22.click/live/selcuktivibuspor1/playlist.m3u8
+#EXTINF:-1 tvg-id="lyon---lorient21-45" group-title="Selcuk TV",Lyon - Lorient21:45
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports4/playlist.m3u8
 #EXTINF:-1 tvg-id="athletic-bilbao---villarreal22-00" group-title="Selcuk TV",Athletic Bilbao - Villarreal22:00
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
