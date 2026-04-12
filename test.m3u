@@ -1,14 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Galatasaray - Kocaelispor | Trendyol Süper Lig
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,19:00 | Keçiörengücü - Serik Bld. | Trendyol 1. Lig
-https://andro.226503.xyz/checklist/androstreamlivetrts.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,19:00 | Halkbank - Galatasaray HDIS | TVF Efeler Ligi
-https://andro.226503.xyz/checklist/androstreamlivetrtsy.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,19:00 | Bologna - Lecce | İtalya Serie A
-https://andro.226503.xyz/checklist/androstreamlivess2.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,19:30 | Celta Vigo - Real Oviedo | İspanya La Liga
-https://andro.226503.xyz/checklist/androstreamlivess1.m3u8
+#EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Galatasaray (Y) - Kocaelispor (Y) | Trendyol Süper Lig (Yabancı Spiker)
+https://andro.226503.xyz/checklist/androstreamliveexn2.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Benfica - Nacional | Portekiz Liga NOS
 https://andro.226503.xyz/checklist/androstreamlivets4.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,20:00 | SP Burgos - Real Madrid | İspanya Basketbol Ligi
@@ -249,14 +243,6 @@ https://black-snow-b418.gsyedekhazs.workers.dev/https://corestream.ronaldovurdu.
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.77cea06653da22.click/live/selcukobs1/playlist.m3u8
-#EXTINF:-1 tvg-id="keciorengucu---serik-bld19-00" group-title="Selcuk TV",Keçiörengücü - Serik Bld.19:00
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcuktrtspor/playlist.m3u8
-#EXTINF:-1 tvg-id="bologna---lecce19-00" group-title="Selcuk TV",Bologna - Lecce19:00
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcuktivibuspor1/playlist.m3u8
 #EXTINF:-1 tvg-id="celta-vigo---real-oviedo19-30" group-title="Selcuk TV",Celta Vigo - Real Oviedo19:30
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -273,14 +259,14 @@ https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports1/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.77cea06653da22.click/live/selcuktivibuspor2/playlist.m3u8
-#EXTINF:-1 tvg-id="lyon---lorient21-45" group-title="Selcuk TV",Lyon - Lorient21:45
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports4/playlist.m3u8
 #EXTINF:-1 tvg-id="como---inter21-45" group-title="Selcuk TV",Como - Inter21:45
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.77cea06653da22.click/live/selcuktivibuspor1/playlist.m3u8
+#EXTINF:-1 tvg-id="lyon---lorient21-45" group-title="Selcuk TV",Lyon - Lorient21:45
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports4/playlist.m3u8
 #EXTINF:-1 tvg-id="athletic-bilbao---villarreal22-00" group-title="Selcuk TV",Athletic Bilbao - Villarreal22:00
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -297,14 +283,6 @@ https://dga1op10s1u3leo.77cea06653da22.click/live/selcuksmartspor/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.77cea06653da22.click/live/selcukobs1/playlist.m3u8
-#EXTINF:-1 tvg-id="keciorengucu---serik-bld19-00" group-title="Selcuk TV",Keçiörengücü - Serik Bld.19:00
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcuktrtspor/playlist.m3u8
-#EXTINF:-1 tvg-id="bologna---lecce19-00" group-title="Selcuk TV",Bologna - Lecce19:00
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcuktivibuspor1/playlist.m3u8
 #EXTINF:-1 tvg-id="celta-vigo---real-oviedo19-30" group-title="Selcuk TV",Celta Vigo - Real Oviedo19:30
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -321,14 +299,14 @@ https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports1/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.77cea06653da22.click/live/selcuktivibuspor2/playlist.m3u8
-#EXTINF:-1 tvg-id="lyon---lorient21-45" group-title="Selcuk TV",Lyon - Lorient21:45
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports4/playlist.m3u8
 #EXTINF:-1 tvg-id="como---inter21-45" group-title="Selcuk TV",Como - Inter21:45
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.77cea06653da22.click/live/selcuktivibuspor1/playlist.m3u8
+#EXTINF:-1 tvg-id="lyon---lorient21-45" group-title="Selcuk TV",Lyon - Lorient21:45
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports4/playlist.m3u8
 #EXTINF:-1 tvg-id="athletic-bilbao---villarreal22-00" group-title="Selcuk TV",Athletic Bilbao - Villarreal22:00
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
