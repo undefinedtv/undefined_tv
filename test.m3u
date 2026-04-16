@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="Maç Yayınları" ,21:00 | Asvel Villeurbanne - Fenerbahçe Beko | Euroleague
-https://andro.226503.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,21:05 | Maccabi Fox - Virtus Bologna | Euroleague
-https://andro.226503.xyz/checklist/androstreamliveexn2.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,21:15 | Olympiakos - Olimpia Milano | Euroleague
-https://andro.226503.xyz/checklist/androstreamliveexn3.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,21:30 | Partizan - Baskonia | Euroleague
-https://andro.226503.xyz/checklist/androstreamliveexn4.m3u8
+https://andro.226503.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,21:30 | D.Kelly - J.Wilson | PFL Dövüş Serisi
 https://andro.226503.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,21:45 | Real Madrid - Kizilyildiz | Euroleague
@@ -216,7 +210,7 @@ https://hlsssssss.amgtmeme.workers.dev/https://corestream.ronaldovurdu.help//hls
 #EXTINF:-1 tvg-id="s-sport" tvg-name="S SPORT" group-title="Atom TV",S SPORT
 #EXTVLCOPT:http-referrer=https://www.atomsportv497.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://www.atomsportv497.top/stream/s-sport
+https://hlsssssss.amgtmeme.workers.dev/https://corestream.ronaldovurdu.help//hls/s-sport.m3u8
 #EXTINF:-1 tvg-id="s-sport-2" tvg-name="S SPORT 2" group-title="Atom TV",S SPORT 2
 #EXTVLCOPT:http-referrer=https://www.atomsportv497.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
