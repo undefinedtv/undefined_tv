@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Maç Yayınları" ,21:45 | Bayer Leverkusen - Bayern Münih | Almanya Kupasi DFB Pokal Yari Final
-https://andro.226503.xyz/checklist/androstreamlivesifir.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,21:45 | Charlton - Ipswich Town | Championship - Normal Sezon
-https://andro.226503.xyz/checklist/androstreamliveexn.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,22:00 | Bournemouth - Leeds United | İngiltere Premier Lig
-https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,22:00 | Burnley - Manchester City | İngiltere Premier Lig
-https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,22:00 | Strasbourg - Nice | Fransa Kupasi Yari Final
-https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,22:00 | Atalanta - Lazio | İtalya Kupasi Yari Final
-https://andro.226503.xyz/checklist/androstreamlivetrts.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,22:30 | Barcelona - Celta Vigo | İspanya La Liga
 https://andro.226503.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,04:30 | OKC Thunder - Phoenix Suns | NBA Play-Off
@@ -237,7 +225,7 @@ https://www.atomsportv499.top/stream/tivibu-spor-3
 #EXTINF:-1 tvg-id="trt-spor" tvg-name="TRT SPOR" group-title="Atom TV",TRT SPOR
 #EXTVLCOPT:http-referrer=https://www.atomsportv499.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://hlsssssss.neymardacorona.workers.dev/https://corestream.ronaldovurdu.help//hls/trt-spor.m3u8
+https://www.atomsportv499.top/stream/trt-spor
 #EXTINF:-1 tvg-id="trt-yildiz" tvg-name="TRT YILDIZ" group-title="Atom TV",TRT YILDIZ
 #EXTVLCOPT:http-referrer=https://www.atomsportv499.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
@@ -258,10 +246,6 @@ https://dga1op10s1u3leo.09ae0c131a1d8b.click/live/selcukbeinsports1/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.09ae0c131a1d8b.click/live/selcukbeinsports2/playlist.m3u8
-#EXTINF:-1 tvg-id="bein-sports-3724" group-title="Selcuk TV",Bein Sports 37/24
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.09ae0c131a1d8b.click/live/selcukbeinsports3/playlist.m3u8
 #EXTINF:-1 tvg-id="bein-sports-4724" group-title="Selcuk TV",Bein Sports 47/24
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
