@@ -1,26 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="Maç Yayınları" ,21:30 | Cadiz - Las Palmas | İspanya La Liga 2
-https://andro.226503.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,21:45 | Lazio - Udinese | İtalya Serie A
-https://andro.226503.xyz/checklist/androstreamlivets1.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,22:00 | Espanyol - Levante | İspanya La Liga
-https://andro.226503.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,22:00 | Manchester Utd - Brentford (Azeri Spiker) | İngiltere Premier Lig
-https://andro.226503.xyz/checklist/androstreamliveidm.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,22:00 | Manchester Utd - Brentford | İngiltere Premier Lig
-https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,05:30 | Denver Nuggets - Minnesota TW | NBA Play-Off
 https://andro.226503.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,15:00 | Kdz Ereğli Bld. - Bozokspor | TFF 3. Lig Play-Off
 https://andro.226503.xyz/checklist/androstreamlivets.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,19:00 | Halkbank - Spor Toto SK | TVF Efeler Ligi Play-Off 3 üncülük
 https://andro.226503.xyz/checklist/androstreamlivetrtsy.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Eskişehirspor - Balikesirspor | TFF 3. Lig Play-Off
-https://andro.226503.xyz/checklist/androstreamlivets.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Karşiyaka - Ayvalikgücü Bld. | TFF 3. Lig Play-Off
 https://andro.226503.xyz/checklist/androstreamlivets4.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,20:00 | 52 Orduspor - Fatsa Bld. | TFF 3. Lig Play-Off
 https://andro.226503.xyz/checklist/androstreamlivets3.m3u8
+#EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Eskişehirspor - Balikesirspor | TFF 3. Lig Play-Off
+https://andro.226503.xyz/checklist/androstreamlivets.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,20:30 | JL Bourg - Beşiktaş GAİN | Eurocup Final
 https://andro.226503.xyz/checklist/androstreamlivetrts.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,20:45 | Fenerbahçe Beko - Zalgiris Kaunas | Euroleague Play-Off Final
@@ -239,7 +229,7 @@ https://young-surf-88a9.songulcavdar8274.workers.dev/https://corestream.ronaldov
 #EXTINF:-1 tvg-id="bein-sports-1724" group-title="Selcuk TV",Bein Sports 17/24
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.e4acb56cc2ba28.click/live/selcukbeinsports1/playlist.m3u8
+https://dga1op10s1u3leo.562958f3179f30.click/live/selcukbeinsports1/playlist.m3u8
 #EXTINF:-1 tvg-id="bein-sports-2724" group-title="Selcuk TV",Bein Sports 27/24
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -271,7 +261,7 @@ https://dga1op10s1u3leo.562958f3179f30.click/live/selcukbeinsportsmax2/playlist.
 #EXTINF:-1 tvg-id="s-sport724" group-title="Selcuk TV",S Sport7/24
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.e4acb56cc2ba28.click/live/selcukssport/playlist.m3u8
+https://dga1op10s1u3leo.562958f3179f30.click/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-id="s-sport-2724" group-title="Selcuk TV",S Sport 27/24
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
