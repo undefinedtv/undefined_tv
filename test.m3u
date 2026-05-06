@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Maç Yayınları" ,16:00 | M.Arnaldi - J.Munar | ATP Roma
-https://andro.226503.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,17:00 | Konya BB - Fenerbahçe Koleji | Basketbol 1. Ligi Play-Off Çeyrek Final
-https://andro.226503.xyz/checklist/androstreamliveht.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Gaziantep Basket - Kahramanmaraş İstiklal | Basketbol 1. Ligi Play-Off Çeyrek Final
 https://andro.226503.xyz/checklist/androstreamliveht.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,20:00 | E.Cocciaretto - S.Kraus | WTA Roma
@@ -177,10 +173,6 @@ https://zeustv453269.info/xahaber/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv501.top/
 https://young-surf-88a9.emgetsek.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
-#EXTINF:-1 group-title="Atom TV",BEIN SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv501.top/
-https://young-surf-88a9.emgetsek.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-2.m3u8
 #EXTINF:-1 group-title="Atom TV",BEIN SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv501.top/
@@ -205,10 +197,6 @@ https://young-surf-88a9.emgetsek.workers.dev/https://corestream.ronaldovurdu.hel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv501.top/
 https://young-surf-88a9.emgetsek.workers.dev/https://corestream.ronaldovurdu.help//hls/s-sport.m3u8
-#EXTINF:-1 group-title="Atom TV",S SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv501.top/
-https://young-surf-88a9.emgetsek.workers.dev/https://corestream.ronaldovurdu.help//hls/s-sport-2.m3u8
 #EXTINF:-1 group-title="Atom TV",TRT SPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv501.top/
@@ -229,10 +217,6 @@ https://dga1op10s1u3leo.da0fdcfd5eefac.click/live/selcukbeinsports1/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.da0fdcfd5eefac.click/live/selcukbeinsports2/playlist.m3u8
-#EXTINF:-1 tvg-id="bein-sports-3724" group-title="Selcuk TV",Bein Sports 37/24
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.da0fdcfd5eefac.click/live/selcukbeinsports3/playlist.m3u8
 #EXTINF:-1 tvg-id="bein-sports-4724" group-title="Selcuk TV",Bein Sports 47/24
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -313,10 +297,6 @@ https://dga1op10s1u3leo.da0fdcfd5eefac.click/live/selcuktabiispor5/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.da0fdcfd5eefac.click/live/selcuktabiispor6/playlist.m3u8
-#EXTINF:-1 tvg-id="tabii-spor-6724" group-title="Selcuk TV",tabii Spor 67/24
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.da0fdcfd5eefac.click/live/selcuktabiispor7/playlist.m3u8
 #EXTINF:-1 tvg-id="tabii-spor-7724" group-title="Selcuk TV",tabii Spor 77/24
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
