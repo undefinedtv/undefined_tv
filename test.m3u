@@ -1,8 +1,22 @@
 #EXTM3U
-#EXTINF:-1 group-title="Maç Yayınları" ,18:00 | Unicaja Malaga - Iberostar Tenerife | FIBA Şampiyonlar Ligi 3 üncülük
-https://andro.226503.xyz/checklist/androstreamlivetrtsy.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,18:15 | Yariş 2 | İtalya GP
+#EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Galatasaray - Antalyaspor | Trendyol Süper Lig
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Beşiktaş - Trabzonspor | Trendyol Süper Lig
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Konyaspor - Fenerbahçe | Trendyol Süper Lig
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Rams Başakşehir - Samsunspor | Trendyol Süper Lig
+https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
+#EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Gençlerbirliği - Kasimpaşa | Trendyol Süper Lig
 https://andro.226503.xyz/checklist/androstreamlivebsm1.m3u8
+#EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Alanyaspor - Kayserispor | Trendyol Süper Lig
+https://andro.226503.xyz/checklist/androstreamlivebsm2.m3u8
+#EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Göztepe - Gaziantep FK | Trendyol Süper Lig
+https://andro.226503.xyz/checklist/androstreamliveexn4.m3u8
+#EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Kocaelispor - F. Karagümrük | Trendyol Süper Lig
+https://andro.226503.xyz/checklist/androstreamliveexn5.m3u8
+#EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Eyüpspor - Ç. Rizespor | Trendyol Süper Lig
+https://andro.226503.xyz/checklist/androstreamliveexn6.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,18:30 | Sumqayit - Araz | Azerbaycan Premier Ligi
 https://andro.226503.xyz/checklist/androstreamlivecbcs.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,19:00 | Lazio - Inter | İtalya Serie A
@@ -15,24 +29,6 @@ https://andro.226503.xyz/checklist/androstreamlivets2.m3u8
 https://andro.226503.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,19:30 | Atletico Madrid - Celta Vigo (Azeri) | İspanya La Liga
 https://andro.226503.xyz/checklist/androstreamliveidm.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Gençlerbirliği - Kasimpaşa | Trendyol Süper Lig
-https://andro.226503.xyz/checklist/androstreamlivebsm1.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Galatasaray - Antalyaspor | Trendyol Süper Lig
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Beşiktaş - Trabzonspor | Trendyol Süper Lig
-https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Rams Başakşehir - Samsunspor | Trendyol Süper Lig
-https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Konyaspor - Fenerbahçe | Trendyol Süper Lig
-https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Alanyaspor - Kayserispor | Trendyol Süper Lig
-https://andro.226503.xyz/checklist/androstreamlivebsm2.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Göztepe - Gaziantep FK | Trendyol Süper Lig
-https://andro.226503.xyz/checklist/androstreamliveexn4.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Kocaelispor - F. Karagümrük | Trendyol Süper Lig
-https://andro.226503.xyz/checklist/androstreamliveexn5.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Eyüpspor - Ç. Rizespor | Trendyol Süper Lig
-https://andro.226503.xyz/checklist/androstreamliveexn6.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Barcelona - SP Burgos | İspanya Basketbol Ligi
 https://andro.226503.xyz/checklist/androstreamlivesm1.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,21:00 | AEK Athens - Lietuvos Rytas | FIBA Şampiyonlar Ligi Final
@@ -292,51 +288,51 @@ https://zeustv453269.info/xahaber/index.m3u8
 #EXTINF:-1 group-title="Atom TV",BEIN SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv503.top/
-https://young-surf-88a9.emgetsek.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
+https://hlssssssssssss.sampiyofenermisin.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 #EXTINF:-1 group-title="Atom TV",BEIN SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv503.top/
-https://young-surf-88a9.emgetsek.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-2.m3u8
+https://hlssssssssssss.sampiyofenermisin.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-2.m3u8
 #EXTINF:-1 group-title="Atom TV",BEIN SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv503.top/
-https://young-surf-88a9.emgetsek.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-3.m3u8
+https://hlssssssssssss.sampiyofenermisin.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-3.m3u8
 #EXTINF:-1 group-title="Atom TV",BEIN SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv503.top/
-https://young-surf-88a9.emgetsek.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-4.m3u8
+https://hlssssssssssss.sampiyofenermisin.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-4.m3u8
 #EXTINF:-1 group-title="Atom TV",BEIN SPORTS 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv503.top/
-https://young-surf-88a9.emgetsek.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-5.m3u8
+https://hlssssssssssss.sampiyofenermisin.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-5.m3u8
 #EXTINF:-1 group-title="Atom TV",BEIN SPORTS MAX 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv503.top/
-https://young-surf-88a9.emgetsek.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-max-2.m3u8
+https://hlssssssssssss.sampiyofenermisin.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-max-2.m3u8
 #EXTINF:-1 group-title="Atom TV",BEIN SPORTS MAX 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv503.top/
-https://young-surf-88a9.emgetsek.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-max-2.m3u8
+https://hlssssssssssss.sampiyofenermisin.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-max-2.m3u8
 #EXTINF:-1 group-title="Atom TV",S SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv503.top/
-https://young-surf-88a9.emgetsek.workers.dev/https://corestream.ronaldovurdu.help//hls/s-sport.m3u8
+https://hlssssssssssss.sampiyofenermisin.workers.dev/https://corestream.ronaldovurdu.help//hls/s-sport.m3u8
 #EXTINF:-1 group-title="Atom TV",S SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv503.top/
-https://young-surf-88a9.emgetsek.workers.dev/https://corestream.ronaldovurdu.help//hls/s-sport-2.m3u8
+https://hlssssssssssss.sampiyofenermisin.workers.dev/https://corestream.ronaldovurdu.help//hls/s-sport-2.m3u8
 #EXTINF:-1 group-title="Atom TV",TRT SPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv503.top/
-https://young-surf-88a9.emgetsek.workers.dev/https://corestream.ronaldovurdu.help//hls/trt-spor.m3u8
+https://hlssssssssssss.sampiyofenermisin.workers.dev/https://corestream.ronaldovurdu.help//hls/trt-spor.m3u8
 #EXTINF:-1 group-title="Atom TV",TRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv503.top/
-https://young-surf-88a9.emgetsek.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-4.m3u8
+https://hlssssssssssss.sampiyofenermisin.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-4.m3u8
 #EXTINF:-1 group-title="Atom TV",ASPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv503.top/
-https://young-surf-88a9.emgetsek.workers.dev/https://corestream.ronaldovurdu.help//hls/a-spor.m3u8
+https://hlssssssssssss.sampiyofenermisin.workers.dev/https://corestream.ronaldovurdu.help//hls/a-spor.m3u8
 #EXTINF:-1 tvg-id="bein-sports-1724" group-title="Selcuk TV",Bein Sports 17/24
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
