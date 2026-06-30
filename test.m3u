@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Maç Yayınları" ,19:30 | S.Williams - M.Joint | Wimbledon
-https://andro.226503.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Fildişi Sahili - Norveç (Türkçe) | FIFA 2026 Dünya Kupasi Son 32
-https://andro.226503.xyz/checklist/androstreamlivetrt1.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Fil Dişi Sahili - Norveç (Azerice) | FIFA 2026 Dünya Kuboku – 1/16 final
-https://andro.226503.xyz/checklist/androstreamliveexn4.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Ivory Coast - Norway (English) | FIFA 2026 World Cup Round of 32
-https://andro.226503.xyz/checklist/androstreamliveexn1.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,20:00 | Elfenbeinküste - Norwegen (Deutsch) | FIFA Fußball-Weltmeisterschaft 2026 – Sechzehntelfinale
-https://andro.226503.xyz/checklist/androstreamliveexn3.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,20:15 | Porto Riko - Türkiye | FIBA U17 Dünya Kupasi
-https://andro.226503.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,00:00 | Fransa - İsveç (Türkçe) | FIFA 2026 Dünya Kupasi Son 32
 https://andro.226503.xyz/checklist/androstreamlivetrt1.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,00:00 | Fransa - İsveç (Azerice) | FIFA 2026 Dünya Kuboku – 1/16 final
@@ -208,6 +196,10 @@ https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsports5/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1841.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsportshaber/playlist.m3u8
+#EXTINF:-1 tvg-id="bein-sports-max-1724" group-title="Selcuk TV",Bein Sports Max 17/24
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1841.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukbeinsportsmax1/playlist.m3u8
 #EXTINF:-1 tvg-id="bein-sports-max-2724" group-title="Selcuk TV",Bein Sports Max 27/24
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1841.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -220,6 +212,10 @@ https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukssport/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1841.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukssport2/playlist.m3u8
+#EXTINF:-1 tvg-id="sky-sports-f1724" group-title="Selcuk TV",Sky Sports F17/24
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1841.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuksf1/playlist.m3u8
 #EXTINF:-1 tvg-id="smart-spor724" group-title="Selcuk TV",Smart Spor7/24
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1841.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -232,6 +228,14 @@ https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuksmartspor2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1841.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktivibuspor1/playlist.m3u8
+#EXTINF:-1 tvg-id="tivibu-spor-2724" group-title="Selcuk TV",Tivibu Spor 27/24
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1841.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktivibuspor2/playlist.m3u8
+#EXTINF:-1 tvg-id="tivibu-spor-3724" group-title="Selcuk TV",Tivibu Spor 37/24
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1841.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktivibuspor3/playlist.m3u8
 #EXTINF:-1 tvg-id="tivibu-spor-4724" group-title="Selcuk TV",Tivibu Spor 47/24
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1841.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -264,6 +268,14 @@ https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor6/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1841.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor7/playlist.m3u8
+#EXTINF:-1 tvg-id="tabii-spor-7724" group-title="Selcuk TV",tabii Spor 77/24
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1841.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcuktabiispor8/playlist.m3u8
+#EXTINF:-1 tvg-id="a-spor724" group-title="Selcuk TV",A Spor7/24
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1841.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dga1op10s1u3leo.33a6243d11525c.click/live/selcukaspor/playlist.m3u8
 #EXTINF:-1 tvg-id="trt-spor724" group-title="Selcuk TV",TRT Spor7/24
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1841.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
