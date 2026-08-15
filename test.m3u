@@ -7,6 +7,12 @@ https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
 https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,21:30 | Gençlerbirliği - Fenerbahçe | Trendyol Süper Lig
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 group-title="Maç Yayınları" ,05:00 | R.Alvarenga - M.Maquine Alves | One Championship Dövüş Serisi
+https://andro.226503.xyz/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1 group-title="Maç Yayınları" ,05:30 | V.Anh Do - D.Brandao | One Championship Dövüş Serisi
+https://andro.226503.xyz/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1 group-title="Maç Yayınları" ,06:00 | Kana - Y.Yau Pui | One Championship Dövüş Serisi
+https://andro.226503.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,06:30 | J.Sangiao - M.Aurelio | One Championship Dövüş Serisi
 https://andro.226503.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,07:00 | N.Carrillo - Z.Jiaqiang | One Championship Dövüş Serisi
@@ -47,8 +53,6 @@ https://andro.226503.xyz/checklist/androstreamlivetrts.m3u8
 https://andro.226503.xyz/checklist/androstreamlivebsm2.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,22:00 | T.Paul - H.Hurkacz | ATP Cincinnati
 https://andro.226503.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,22:15 | Torino - Carrarese | İtalya Kupasi
-https://andro.226503.xyz/checklist/androstreamlivetb.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,22:30 | Sevilla - Rayo Vallecano | İspanya La Liga
 https://andro.226503.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,22:30 | Rio Ave - Porto | Portekiz Liga NOS
@@ -73,8 +77,6 @@ https://andro.226503.xyz/checklist/androstreamlivessplus1.m3u8
 https://andro.226503.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,15:30 | Feyenoord - GA Eagles | Hollanda Eredivisie
 https://andro.226503.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,17:00 | Arsenal - Manchester City | FA Community Shield
-https://andro.226503.xyz/checklist/androstreamlivetb.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,17:45 | Ajax - Heerenveen | Hollanda Eredivisie
 https://andro.226503.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,18:00 | Racing Santander - Villarreal | İspanya La Liga
@@ -99,8 +101,6 @@ https://andro.226503.xyz/checklist/androstreamlivetrts.m3u8
 https://andro.226503.xyz/checklist/androstreamlivebsm1.m3u8
 #EXTINF:-1 group-title="Maç Yayınları" ,21:45 | Lens - PSG | Fransa Süper Kupasi
 https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 group-title="Maç Yayınları" ,22:15 | Lazio - Mantova | İtalya Kupasi
-https://andro.226503.xyz/checklist/androstreamlivetb.m3u8
 #EXTINF:-1 group-title="Zeus Tv", B1
 https://zeus324232.cfd/b1/index.txt
 #EXTINF:-1 group-title="Zeus Tv", B1LOCAL
@@ -223,6 +223,21 @@ https://zeus324232.cfd/xexxen1/index.txt
 #EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
 19998780
 # İki logo: https://1xlite-84484.pro/resized/size16/sfiles/logo_teams/e03dec5b2ed7c2cb0fe0f239f6175cb0.png | https://1xlite-84484.pro/resized/size16/sfiles/logo_teams/232c1adf7369fb816158a1ccf354b930.png
+#EXTINF:-1 tvg-logo="https://1xlite-84484.pro/resized/size16/sfiles/logo_teams/046eab6d116bd09254aeed01cc85e766.png" group-title="Atom TV",Adelaide Comets (Bayanlar) - Campbelltown City (Women) [08:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19999003
+# İki logo: https://1xlite-84484.pro/resized/size16/sfiles/logo_teams/046eab6d116bd09254aeed01cc85e766.png | https://1xlite-84484.pro/resized/size16/sfiles/logo_teams/375405.png
+#EXTINF:-1 tvg-logo="https://1xlite-84484.pro/resized/size16/sfiles/logo_teams/1ceb6f89ecc23dfe8907724d4aaea956.png" group-title="Atom TV",South Melbourne FC (Bayanlar) - Keilor Park (Bayanlar) [08:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19999001
+# İki logo: https://1xlite-84484.pro/resized/size16/sfiles/logo_teams/1ceb6f89ecc23dfe8907724d4aaea956.png | https://1xlite-84484.pro/resized/size16/sfiles/logo_teams/5be71efe5d75220bc40f83f13b24c59b.png
+#EXTINF:-1 tvg-logo="https://1xlite-84484.pro/resized/size16/sfiles/logo_teams/297a4bc1fed79d7f792788c02cfd9da0.png" group-title="Atom TV",Monaro Panthers U23 - Canberra Croatia U23 [08:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19999024
+# İki logo: https://1xlite-84484.pro/resized/size16/sfiles/logo_teams/297a4bc1fed79d7f792788c02cfd9da0.png | https://1xlite-84484.pro/resized/size16/sfiles/logo_teams/ea30a7b235e75f4408a50a6598e24a6d.png
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="Atom TV",BEIN SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
