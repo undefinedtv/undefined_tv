@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,21:45 | West Ham - Fulham | İngiltere Lig Kupasi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://andro.evrenesoglu101.click/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,22:00 | Ipswich Town - Arsenal | İngiltere Lig Kupasi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://andro.evrenesoglu101.click/checklist/androstreamliveexn4.m3u8
-#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,22:00 | Liverpool - Tottenham | İngiltere Lig Kupasi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://andro.evrenesoglu101.click/checklist/androstreamliveexn5.m3u8
-#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,22:00 | Fiorentina - Pisa | İtalya Kupasi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://andro.evrenesoglu101.click/checklist/androstreamlivetrts.m3u8
-#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,22:30 | Elche - Real Madrid | İspanya La Liga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://andro.evrenesoglu101.click/checklist/androstreamlivess1.m3u8
 #EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,13:00 | Jeonbuk - Kashiwa Reysol | AFC Şampiyonlar Ligi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://andro.evrenesoglu101.click/checklist/androstreamlivesm1.m3u8
@@ -80,6 +65,48 @@ https://andro.evrenesoglu101.click/checklist/androstreamlivess1.m3u8
 #EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,22:30 | Levante - Athletic Bilbao | İspanya La Liga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://andro.evrenesoglu101.click/checklist/androstreamlivess2.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,14:30 | Y.Amasyaspor - Çankirigücü | Ziraat Türkiye Kupasi ZTK Elemeler
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu101.click/checklist/androstreamliveas.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,19:00 | Orduspor - Torul Gençlik | Ziraat Türkiye Kupasi ZTK Elemeler
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu101.click/checklist/androstreamliveas.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,19:45 | Levski Sofya - Salzburg | UEFA Avrupa Ligi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu101.click/checklist/androstreamlivetb.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,19:45 | OFI Crete - Hoffenheim | UEFA Avrupa Ligi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu101.click/checklist/androstreamlivetb.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,20:00 | Real Betis - Getafe | İspanya La Liga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu101.click/checklist/androstreamlivess1.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,21:30 | Manchester City - Norwich City | İngiltere Lig Kupasi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu101.click/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,22:00 | Beşiktaş - Marsilya | UEFA Avrupa Ligi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu101.click/checklist/androstreamlivecbcs.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,22:00 | Celtic - Ferencvaros | UEFA Avrupa Ligi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu101.click/checklist/androstreamlivetb.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,22:00 | Crystal Palace - Lech Poznan | UEFA Avrupa Ligi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu101.click/checklist/androstreamlivetb.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,22:00 | Juventus - NEC Nijmegen | UEFA Avrupa Ligi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu101.click/checklist/androstreamlivetb.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,22:00 | Lilleström - Torreense | UEFA Avrupa Ligi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu101.click/checklist/androstreamlivetb.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,22:00 | Viktoria Plzen - St.Gilloise | UEFA Avrupa Ligi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu101.click/checklist/androstreamlivetb.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,22:00 | Real Sociedad - Bournemouth | UEFA Avrupa Ligi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu101.click/checklist/androstreamlivetb.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,22:30 | Malaga - Villarreal | İspanya La Liga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu101.click/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:BeIN Sports 1 | A" group-title="Andro TV" ,BeIN Sports 1 | A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://andro.evrenesoglu101.click/checklist/androstreamlivebiraz1.m3u8
@@ -242,182 +269,302 @@ https://andro.evrenesoglu101.click/checklist/androstreamliveexn7.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen Sports 8" group-title="Andro TV" ,Exxen Sports 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://andro.evrenesoglu101.click/checklist/androstreamliveexn8.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Fiorentina - Pisa
+#EXTINF:-1 group-title="Selçuk Tv", Jeonbuk - Kashiwa Reysol
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktrtspor/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Elche - Real Madrid
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuksmartspor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Sinopspor - Arit Kayadibi
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukaspor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Port FC - Vissel Kobe
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuksmartspor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Bucaspor - Gaziemirspor
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukaspor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Ararat - Sparta Prag
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Omonia - Celta Vigo
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Mersin İY - Bucak Belediye
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukaspor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Deportivo - Sevilla
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukssport2/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Atletico Madrid - Osasuna
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukssport/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Atletico Tembetary - Sportivo Carapegua
+#EXTINF:-1 group-title="Selçuk Tv", Hapoel Beer Sheva - Dinamo Zagreb
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/bToNi4cPq1-MnuTEYTXn3ZfEySgaBK5mRD1dg0g-DgA/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Liverpool (Wizard) - Lombardia FC (Maestro)
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Sunderland - AZ Alkmaar
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/6X3y3lDsMzJYUXQbNMuv08aZIfD3quOYXl1PqyjALFE/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", CADASTRE - FOSSIL
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Sturm Graz - Rennes
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/PMAcgb-ot3NbTnLmZzMPrc3YZ-0ahQWkpEDLCLwGj5k/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", MINERALOGY - PSY
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Bayer Leverkusen - NK Celje
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/iOUhfDUJJKHdsZ20ntCpfr8P0VXRFvqLM2NxJLPcIhM/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Graafschap (Amatör) - Volendam (Amatör)
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Anderlecht - Lyon
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/AbyhFsCrFo5oVPQ3Rl0rVNDTRrcHpfapcMZsyLkvQkg/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Galaxy+ - Rapids +
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Milan - Benfica
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/2FwR_-suMDvYdGoibf1uVr0ssod8wqxC02U1ezrL2OU/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Spartak+ - Zenit+
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Barcelona - Racing Santander
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/tTkIqfw7fDgD6QXjgFFmlED90EprAIWvQZwZIaBUW8w/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Longonjo - Catinton
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukssport/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Levante - Athletic Bilbao
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/_RYqTzHGkL1X9b-AIjAnwTmK5bUJIe11vBcFJR2A4CA/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Guilin - Jixi
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukssport2/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", San Luis de Quillota - Deportes Antofagasta
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/O6wNXysoE6k5I1AxerKcJU4N1Q4GgI7rVjf9oWtmN1A/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Cumbuco - Jordao
+https://dga1op10s1u3lea.82250d06d39d38.click/live/1Zel4bXEHbbfgNAgxFakRqaFKkCo3djU6CDZVltP0sc/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Conestoga College (Kadınlar) - Sheridan (Kadınlar)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/vNaHZ8Om4fOk9l0O5OdL4yHYPcU62_U3YqgwQK0Gdyg/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Heat - Marauders
+https://dga1op10s1u3lea.82250d06d39d38.click/live/rCSXyN0FrGeHhPyFwpDNGOAaCA0kHxls9h3WHUkns_k/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Tacuary - 12 De Junio Villa Hayes
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/xphgVbBZ6QxLzWyNHjhAcoEyMTgbRNFlGHdAFAD1_LA/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Penglai Sailors FC - Qingzhou Wanderers
+https://dga1op10s1u3lea.82250d06d39d38.click/live/M5amTEaHufd46tf_vTkJo5XvjfXjcT4b9ZVcs9ycGUI/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", MECH - MINERALOGY
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/TDAKj-W52TNU43ih5IvMoNjVIQcAXhX0TnIuA7-WyKg/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Montreal + - Sacramento +
+https://dga1op10s1u3lea.82250d06d39d38.click/live/nUoWoVM36St7WK-HgHDpytiYQbnY26_91Oo1qZ6rWwo/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", LANDSCAPE - CADASTRE
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/RbHv3zqtXK_aB701s0y3oovg-ZJsIbldrTuodldnPvY/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Valencia (Sanal) - Maccabi Tel Aviv (Sanal)
+https://dga1op10s1u3lea.82250d06d39d38.click/live/qD2SWbK8xmZcuIXPl1FU0BwaMqdavBJFV4APfwHemWg/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Presto (2x2) - Elite (2x2)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/B_GGBjGL4-Lvlp6Fb0urhwqefOXX-lx_JItEIsykzeBAKKmQZFpd/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", IPBL Elephants - IPBL Gorillas
+https://dga1op10s1u3lea.82250d06d39d38.click/live/22eOG_brmyJYCNqmAG1eorGq1qsesVikmupc-oGk1Ro/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Stelsoff - Preto
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/SKEM7QhV5b0xQZXXDnnwkgDITfh21VWmgElbcFFBay0/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Los Angeles Clippers (Sanal) - Dallas Mavericks (Sanal)
+https://dga1op10s1u3lea.82250d06d39d38.click/live/2lj_kDh_qkb69onyshG_pA_41Ej7Jo3vNtnSdX-6oJY/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Outlaws - Inferno FC
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/xeCTkMg6rHofeaC0s5i-vbRZSsUWiyOdx8iUKuot9ME_3-wzXUxK/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Voronezh - Moscow
+https://dga1op10s1u3lea.82250d06d39d38.click/live/mrSWW1XoOaN5L9ETBAuNKHG7ZallqCmN736HHJDD8f8/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Fiore (3x3) - Zampa (3x3)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/Y4l4j73lv5EPwLZHxmn91lppWsydCVd1xkbIvE-qG40/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Malaysia (TBL) - Peru (TBL)
+https://dga1op10s1u3lea.82250d06d39d38.click/live/W4IusuWG10h5BS78K5b_6N1y33gZEmhUBBxjAVFFoaw/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Hannover (Amatör) - Koln (Amatör)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/NJAp3eBBXELJtclxsahZ8spX42HE7PM9NIcACqqdcJ4/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Mexico (TBL) - Italy (TBL)
+https://dga1op10s1u3lea.82250d06d39d38.click/live/7_fxinRwvoPml0mk_NgmmvW2Et363s8hX_9sSsl4i-c/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Darmstadt (Amatör) - Paderborn (Amatör)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/9Cg0TOTXZr5Uj4lVF57_J5A97LGJAFtOaY4jTc3eBQc/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", IPBL Beavers - IPBL Barracudas
+https://dga1op10s1u3lea.82250d06d39d38.click/live/jU94c7yEqI8cISJ5FKvvTIVUaIqesTFOp2c9Z3oJ5-4/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Rowdies + - Tulsa +
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/cb3h9kJ2GReX9TlsWYrwzURThse5lstnjOx4Flje8C8/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Olimpia Milano (Sanal) - Barcelona (Sanal)
+https://dga1op10s1u3lea.82250d06d39d38.click/live/RKsfCN60OPwWZ2mroZNMmp-mCyzHsVDIuxiaC-NJsBY/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Haidong - Benxi
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/DjYsIfZhucAlDbOIcA9sR41ia7s7u2kFLftc4wjJu9xnbcfFcm4g/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Chita - Chelyabinsk
+https://dga1op10s1u3lea.82250d06d39d38.click/live/ZFfuFP0Is2MHHLQIu4B89o3vp1chKLk7nUu-4pSCca8/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", PSV (Amatör) - Ajax (Amatör)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/yg9e_G1drXjnUAna6ccrI7OGK3osruxsNSQFs-VEc10/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Nizhnekamsk (Kadınlar) - Krasnogorsk (Kadınlar)
+https://dga1op10s1u3lea.82250d06d39d38.click/live/D8MvRc84C0KRwTZQmWiECJGrcI4BAJui9XwDBvZVz7s/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Revolution + - United +
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/odiEYw1GCT84f1xpTZw0ipmJhVwTnSoPCwNMKyeHUwY/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Minnesota Timberwolves (Sanal) - Cleveland Cavaliers (Sanal)
+https://dga1op10s1u3lea.82250d06d39d38.click/live/_UGY9K_fHt0lvbt5hcgYQoQ_qa5qN0olAEOVyHCkEz4/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Miami Heat (Sanal) - Boston Celtics (Sanal)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/0XcOEQVK0-L5N0ITQp8eVlIjECDHnma_bhQCyUcX8MVRr-J1maVa/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", C.Bucsa - P.Udvardy
+https://dga1op10s1u3lea.82250d06d39d38.click/live/JZkjRMT_2ST-22xfEBgnKPyG2GEuLn5xCsbvkpa6W673Ax141cNu/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", IPBL Beavers - IPBL Scorpions
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/XVFf59p_2nzmI8EJERu0Ytjvy7JBJiVQDRMVT0xcvxU/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Zalgiris (Sanal) - Real Madrid Baloncesto (Sanal)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/SqG1C327sbDtiBfVXhffsgNj3s3PF9iX5VTbh9u4XbNFXcY5LPNv/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Krasnoyarsk - Rostov-on-Don
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/P5IwugfqyScPFCegkoAUIsyyYft6gfdkvDtJzLNWbug/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Detroit Pistons (Sanal) - Milwaukee Bucks (Sanal)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/yQdQyS8Bw1QytrQot36kr-OTK3kmqOP8hYV8tUxRLvTDoS2VrvDI/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Mexico (TBL) - Malaysia (TBL)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/0V0m9unCFe1m11Q5fFecZjrV38pR8RGMmnCL8EpiQh4/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Italy (TBL) - Peru (TBL)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/bk3TtMwKnA_00HCrrkrbPb7dVcqjOnAv7cn7cZw8Bhc/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Monaco (Sanal) - Baskonia (Sanal)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/94iMtDcZ87I9W10ta-sf6LKoJv4_39NuEe6kf_B03QTbV0oHrmst/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", D.Parry - P.Stearns
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukbeinconnect1/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Dmitry Pershikov - Oleg Demin
+#EXTINF:-1 group-title="Selçuk Tv", S.Stephens - J.Tjen
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/DZTBj1eqyaaz2kHjPtSE02Dy3EF6fEwPprSQHdiaM6g/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Konstantin Manannikov - Maksim Kosolapov
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukbeinconnect1/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Jeonbuk - Kashiwa Reysol
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/9xYAAqJc216epLG3IzhHbzUR7gUubPHslYMGbZOvh-o/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Fiorentina - Pisa
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuksmartspor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Sinopspor - Arit Kayadibi
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktrtspor/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Elche - Real Madrid
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukaspor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Port FC - Vissel Kobe
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuksmartspor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Bucaspor - Gaziemirspor
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukaspor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Ararat - Sparta Prag
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Omonia - Celta Vigo
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Mersin İY - Bucak Belediye
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukaspor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Deportivo - Sevilla
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukssport2/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Atletico Madrid - Osasuna
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukssport/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Atletico Tembetary - Sportivo Carapegua
+#EXTINF:-1 group-title="Selçuk Tv", Hapoel Beer Sheva - Dinamo Zagreb
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/bToNi4cPq1-MnuTEYTXn3ZfEySgaBK5mRD1dg0g-DgA/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Liverpool (Wizard) - Lombardia FC (Maestro)
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Sunderland - AZ Alkmaar
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/6X3y3lDsMzJYUXQbNMuv08aZIfD3quOYXl1PqyjALFE/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", CADASTRE - FOSSIL
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Sturm Graz - Rennes
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/PMAcgb-ot3NbTnLmZzMPrc3YZ-0ahQWkpEDLCLwGj5k/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", MINERALOGY - PSY
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Bayer Leverkusen - NK Celje
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/iOUhfDUJJKHdsZ20ntCpfr8P0VXRFvqLM2NxJLPcIhM/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Graafschap (Amatör) - Volendam (Amatör)
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Anderlecht - Lyon
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/AbyhFsCrFo5oVPQ3Rl0rVNDTRrcHpfapcMZsyLkvQkg/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Galaxy+ - Rapids +
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Milan - Benfica
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/2FwR_-suMDvYdGoibf1uVr0ssod8wqxC02U1ezrL2OU/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Spartak+ - Zenit+
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Barcelona - Racing Santander
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/tTkIqfw7fDgD6QXjgFFmlED90EprAIWvQZwZIaBUW8w/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Longonjo - Catinton
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukssport/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Levante - Athletic Bilbao
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/_RYqTzHGkL1X9b-AIjAnwTmK5bUJIe11vBcFJR2A4CA/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Guilin - Jixi
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukssport2/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", San Luis de Quillota - Deportes Antofagasta
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/O6wNXysoE6k5I1AxerKcJU4N1Q4GgI7rVjf9oWtmN1A/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Cumbuco - Jordao
+https://dga1op10s1u3lea.82250d06d39d38.click/live/1Zel4bXEHbbfgNAgxFakRqaFKkCo3djU6CDZVltP0sc/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Conestoga College (Kadınlar) - Sheridan (Kadınlar)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/vNaHZ8Om4fOk9l0O5OdL4yHYPcU62_U3YqgwQK0Gdyg/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Heat - Marauders
+https://dga1op10s1u3lea.82250d06d39d38.click/live/rCSXyN0FrGeHhPyFwpDNGOAaCA0kHxls9h3WHUkns_k/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Tacuary - 12 De Junio Villa Hayes
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/xphgVbBZ6QxLzWyNHjhAcoEyMTgbRNFlGHdAFAD1_LA/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Penglai Sailors FC - Qingzhou Wanderers
+https://dga1op10s1u3lea.82250d06d39d38.click/live/M5amTEaHufd46tf_vTkJo5XvjfXjcT4b9ZVcs9ycGUI/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", MECH - MINERALOGY
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/TDAKj-W52TNU43ih5IvMoNjVIQcAXhX0TnIuA7-WyKg/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Tv", Montreal + - Sacramento +
+https://dga1op10s1u3lea.82250d06d39d38.click/live/nUoWoVM36St7WK-HgHDpytiYQbnY26_91Oo1qZ6rWwo/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", LANDSCAPE - CADASTRE
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dga1op10s1u3lea.82250d06d39d38.click/live/RbHv3zqtXK_aB701s0y3oovg-ZJsIbldrTuodldnPvY/playlist.m3u8
+https://dga1op10s1u3lea.82250d06d39d38.click/live/qD2SWbK8xmZcuIXPl1FU0BwaMqdavBJFV4APfwHemWg/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Presto (2x2) - Elite (2x2)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/22eOG_brmyJYCNqmAG1eorGq1qsesVikmupc-oGk1Ro/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Stelsoff - Preto
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/2lj_kDh_qkb69onyshG_pA_41Ej7Jo3vNtnSdX-6oJY/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Outlaws - Inferno FC
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/mrSWW1XoOaN5L9ETBAuNKHG7ZallqCmN736HHJDD8f8/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Fiore (3x3) - Zampa (3x3)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/W4IusuWG10h5BS78K5b_6N1y33gZEmhUBBxjAVFFoaw/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Hannover (Amatör) - Koln (Amatör)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/7_fxinRwvoPml0mk_NgmmvW2Et363s8hX_9sSsl4i-c/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Darmstadt (Amatör) - Paderborn (Amatör)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/jU94c7yEqI8cISJ5FKvvTIVUaIqesTFOp2c9Z3oJ5-4/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Rowdies + - Tulsa +
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/RKsfCN60OPwWZ2mroZNMmp-mCyzHsVDIuxiaC-NJsBY/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Haidong - Benxi
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/ZFfuFP0Is2MHHLQIu4B89o3vp1chKLk7nUu-4pSCca8/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", PSV (Amatör) - Ajax (Amatör)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/D8MvRc84C0KRwTZQmWiECJGrcI4BAJui9XwDBvZVz7s/playlist.m3u8
+#EXTINF:-1 group-title="Selçuk Tv", Revolution + - United +
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3lea.82250d06d39d38.click/live/_UGY9K_fHt0lvbt5hcgYQoQ_qa5qN0olAEOVyHCkEz4/playlist.m3u8
 #EXTINF:-1 group-title="Selçuk Tv", Bein Sports 1
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd688829a7bd.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -609,166 +756,121 @@ https://zeus324232.cfd/xahaber/index.txt
 #EXTINF:-1 group-title="Zeus Tv", TV100
 https://zeus324232.cfd/tv100/index.txt
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/106.gif" group-title="Atom TV",Elche - Real Madrid [22:30]
+#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/116172ea2beca21841c8b3c69b175d15.png" group-title="Atom TV",ABB - The Strongest [00:30]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-https://ladyboy.taylandpattaya.cfd//s-sport/tracks-v1a1/mono.m3u8
-# İki logo: https://im.mackolik.com/img/logo/buyuk/106.gif | https://im.mackolik.com/img/logo/buyuk/79.gif
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/1980.png" group-title="Atom TV",West Ham United - Fulham [21:45]
+20335439
+# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/116172ea2beca21841c8b3c69b175d15.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/73b839892f4452faeda2816428eae7ea.png
+#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/2614.png" group-title="Atom TV",CR Vasco da Gama - Club Independiente Santa Fe [01:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-https://ladyboy.taylandpattaya.cfd//fulham/tracks-v1a1/mono.m3u8
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/1980.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/1986.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/dc15eac03a83d685e2d9d7fe7e1fd6a6.png" group-title="Atom TV",Ajoie - Ambrì-Piotta [20:45]
+20335611
+# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/2614.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/8a5139e0dc87bc49c04e9a8ecfe59ae9.png
+#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/2414.png" group-title="Atom TV",Platense - Fluminense FutbolClub [01:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20333837
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/dc15eac03a83d685e2d9d7fe7e1fd6a6.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/4acc8a0810c90ebdaa9c2d02346654ff.png
-#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/90.gif" group-title="Atom TV",Deportivo Alaves - Valencia [21:00]
+20335615
+# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/2414.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/efc9391bf42451fa47b09bb205a95387.png
+#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/56b11c23ac71e2f6934a7e0feb46dd5e.png" group-title="Atom TV",Carabobo FC - Deportivo La Guaira [01:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-https://ladyboy.taylandpattaya.cfd//s-sport2/tracks-v1a1/mono.m3u8
-# İki logo: https://im.mackolik.com/img/logo/buyuk/90.gif | https://im.mackolik.com/img/logo/buyuk/80.gif
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/0b7de5d90505a6b68e9eb8edb19a0fd7.png" group-title="Atom TV",SC Rasta Vechta - Yukatel Denizli [21:00]
+20335648
+# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/56b11c23ac71e2f6934a7e0feb46dd5e.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/29085.png
+#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/11973.png" group-title="Atom TV",Barranquilla F.C. - Independiente Yumbo [01:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20333822
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/0b7de5d90505a6b68e9eb8edb19a0fd7.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/92284c981f520436e5736b7c6f1502b1.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/671bbeafcd566269f4233f0da9ca2802.png" group-title="Atom TV",Peterborough United - Barnsley [21:30]
+20335678
+# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/11973.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/79df0abd1686751e89ffb7e8b149366f.png
+#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/b7ef38b853ff42fa536899bea6594b87.png" group-title="Atom TV",Barra - Blumenau [01:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20334143
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/671bbeafcd566269f4233f0da9ca2802.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/8c9026771e2b13c06e0a04742642e2e4.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/44c52073e6ea0fe2dfa61d5a1252db43.png" group-title="Atom TV",Pen-y-Bont FC - Briton Ferry [21:45]
+20335689
+# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/b7ef38b853ff42fa536899bea6594b87.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/1fbcd3c696547b21a55cb4757d8acc68.png
+#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/0df8fecd68e3fab20162cf7fb3c67fcb.png" group-title="Atom TV",Tacuary - 12 De Junio Villa Hayes [01:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20334379
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/44c52073e6ea0fe2dfa61d5a1252db43.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/0e421ae765df81ddd35aafb8741b7563.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/93183.png" group-title="Atom TV",Worthing FC - A.F.C. Hornchurch [21:45]
+20335705
+# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/0df8fecd68e3fab20162cf7fb3c67fcb.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/870548d86e3f2b1e19739b33f44d7c2c.PNG
+#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/edc26d6dac2357bf1519b356d08a899e.png" group-title="Atom TV",Artesanos Metepec - Cordobes [01:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20334831
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/93183.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/7730019dee060453255c9b531b8bc12a.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/676cc92cd0e1c69b92b2094f6930a9c3.png" group-title="Atom TV",Wealdstone - Halifax Town [21:45]
+20335704
+# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/edc26d6dac2357bf1519b356d08a899e.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/d4c2c41d04b3d88d7e824af0cb6b744c.png
+#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/3c4735274d9e465fbfa2a88465d65aea.png" group-title="Atom TV",New Jersey Devils (Rookie) - New York Islanders (Rookie) [01:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20334829
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/676cc92cd0e1c69b92b2094f6930a9c3.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/2198.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/2238.png" group-title="Atom TV",Sutton United - Eastleigh [21:45]
+20335703
+# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/3c4735274d9e465fbfa2a88465d65aea.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/e1fa5ba26723af2dd81a1db47fb913f3.png
+#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/14cb7742dd1d56f17a1d217fa78a1c3d.png" group-title="Atom TV",ABD - Dominik Cumhuriyeti [01:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20334830
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/2238.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/b858ceeb746caf3408f2b0bbe21ba90c.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/87756f1c517ff92fe4182b7b9a36c38f.png" group-title="Atom TV",Solihull Moors - Barrow [21:45]
+20335654
+# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/14cb7742dd1d56f17a1d217fa78a1c3d.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/26813.png
+#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/2eb8d865356d9b1309adb4f0a32262df.png" group-title="Atom TV",Clube Náutico Capibaribe - Operario Ferroviario [01:30]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20334700
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/87756f1c517ff92fe4182b7b9a36c38f.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/98445ba962bd8b857030508d9c787194.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/8bbf506b97c78770a6037128cf456e69.png" group-title="Atom TV",Southend United - Tamworth [21:45]
+20335836
+# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/2eb8d865356d9b1309adb4f0a32262df.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/173607.png
+#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/a0b15415d5d929378064f1344e87963a.png" group-title="Atom TV",Grêmio Prudente - Clube Atlético Linense [01:30]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20334728
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/8bbf506b97c78770a6037128cf456e69.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/041e238a623b842aa41ede5a94c28304.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/d14f6a34ffd5dd59d890577367777e11.png" group-title="Atom TV",Harrogate Town - Fylde [21:45]
+20335838
+# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/a0b15415d5d929378064f1344e87963a.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/2712.png
+#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/2774.png" group-title="Atom TV",Deportivo Táchira - Academia Puerto Cabello [01:30]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20334727
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/d14f6a34ffd5dd59d890577367777e11.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/0b697c99c6361ee8fe0468dfcfd93da6.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/7b2b2ba1238f366ff7f580bb7950c8ac.png" group-title="Atom TV",Falkirk - Heart of Midlothian F.C. [21:45]
+20335840
+# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/2774.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/5cd6eecd7d2e6949fae3535b848cc3ff.png
+#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/45393.png" group-title="Atom TV",Londrina Esporte Clube - Associação Atlética Ponte Preta [01:30]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20334280
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/7b2b2ba1238f366ff7f580bb7950c8ac.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/48b90cf9bfb2b0d09975ee4ce9f16e2d.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/1e041443d56eec44b9025a0d7852d7b2.png" group-title="Atom TV",Aldershot Town - Yeovil Town [21:45]
+20335796
+# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/45393.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/b9e8ca87d9182b5f8abc36d5115140c3.png
+#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/9e61bccf11c405943417db1fe1f036be.png" group-title="Atom TV",Darwin Blanch - Stefan Kozlov [01:30]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20334725
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/1e041443d56eec44b9025a0d7852d7b2.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/8bf134ee3b533f582f0531251e25ee58.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/7f778db4b98921276da200a947432ca4.png" group-title="Atom TV",Trefelin - Cambrian United [21:45]
+20335923
+# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/9e61bccf11c405943417db1fe1f036be.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/44116778387c6a5668a549430f524460.png
+#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/5ecb2d39458f9ce4a2f64adc5faf4e1c.png" group-title="Atom TV",Pato Basquete U22 - Corinthians U22 [01:45]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20334378
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/7f778db4b98921276da200a947432ca4.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/b3c3edc643464c8764ddce33760b1325.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/fe497b87e9c77ad04879020c64f1a33a.png" group-title="Atom TV",Bristol City - Lincoln City [21:45]
+20336093
+# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/5ecb2d39458f9ce4a2f64adc5faf4e1c.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/001350226216162029711345b3a4a6d6.png
+#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/e377875053ecaa15fb654af10c3c674a.png" group-title="Atom TV",Merrimack Warriors (Bayanlar) - Harvard Crimson (Bayanlar) [02:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20334338
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/fe497b87e9c77ad04879020c64f1a33a.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/732dec10843c620b00c63ab19e5ca37d.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/3766d25cd3ca8938624efda38b35ae4d.png" group-title="Atom TV",Llandudno - Caernarfon Town [21:45]
+20336087
+# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/e377875053ecaa15fb654af10c3c674a.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/122765.png
+#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/220bdfba44a652643c7a2c443d4d6e10.png" group-title="Atom TV",Forge - Supra du Quebec [02:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20334441
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/3766d25cd3ca8938624efda38b35ae4d.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/c22cb6891a9cc27fee6cbfab3288e357.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/9076a9b6b65c00e23cb2f97ae02418b9.png" group-title="Atom TV",Barry Town - Ammanford AFC [21:45]
+20336018
+# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/220bdfba44a652643c7a2c443d4d6e10.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/2f3a431f34be63996ca99e456dcf02c5.png
+#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/8ed3d1936b4ecb47369fb3839b9bd7a8.png" group-title="Atom TV",Diane Parry - Peyton Stearns [02:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20334439
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/9076a9b6b65c00e23cb2f97ae02418b9.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/89abbd4f8767fc27cb97eea85b13a755.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/6434.png" group-title="Atom TV",Stenhousemuir - Partick Thistle [21:45]
+20336120
+# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/8ed3d1936b4ecb47369fb3839b9bd7a8.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/2ddf6c92b73ccbb6f7343e47632b8249.png
+#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/310239.png" group-title="Atom TV",Violette - Club Sando [02:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20334312
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/6434.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/6402.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/aa89541aad618d854391270ced44e1cc.png" group-title="Atom TV",Motherwell - Aberdeen [21:45]
+20336090
+# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/310239.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/244461.png
+#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/2e126560c638ada0b69626dda1fb115e.png" group-title="Atom TV",Delfines Del Este - Defence Force FC [02:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20334337
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/aa89541aad618d854391270ced44e1cc.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/bcd300a172aa37f424343b61f5b9cd8b.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/af6e62a30a6f4d987ee548614bb4907b.png" group-title="Atom TV",Hibernian - Kilmarnock [21:45]
+20336091
+# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/2e126560c638ada0b69626dda1fb115e.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/967dc7714518f9d0b1ee7d5f6fe9e8a5.png
+#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/51435.png" group-title="Atom TV",Indy Eleven - Brooklyn FC [02:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20334334
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/af6e62a30a6f4d987ee548614bb4907b.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/6390.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/2212.png" group-title="Atom TV",Boston United - Woking [21:45]
+20336019
+# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/51435.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/7034af0fdb12d4b4931c4b3196c3889e.png
+#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/4f99477ab27b1d46666bfccd3ee2845d.png" group-title="Atom TV",Michael Zheng - Evan Zhu [02:10]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20334827
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/2212.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/2afaf36f9bbf558cde4d9ff4c128b55a.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/2090.png" group-title="Atom TV",Carlisle United - Forest Green Rovers [21:45]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20334828
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/2090.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/2160.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/042f8824389c00ff56e24f8bc2af5218.png" group-title="Atom TV",Middlesbrough - Millwall [21:45]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20334339
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/042f8824389c00ff56e24f8bc2af5218.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/71fd6ff41ac20af342b98c88e603bb4f.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/94504e6cda6bcb24f1ccd27de6487031.png" group-title="Atom TV",Cristina Bucsa - Panna Udvardy [22:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20334386
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/94504e6cda6bcb24f1ccd27de6487031.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/9285915bf558a6a73bb7cb7e4d19e7ae.png
-#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/1189.gif" group-title="Atom TV",Fiorentina - Pisa [22:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-https://ladyboy.taylandpattaya.cfd//trt-spor/tracks-v1a1/mono.m3u8
-# İki logo: https://im.mackolik.com/img/logo/buyuk/1189.gif | https://im.mackolik.com/img/logo/buyuk/1675.gif
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/d3916206204ffc91b0471ff9484066d6.png" group-title="Atom TV",Liverpool - Tottenham Hotspur [22:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20334413
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/d3916206204ffc91b0471ff9484066d6.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/f43494e928135fba48f87940577011ef.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/2002.png" group-title="Atom TV",Reading - Brentford [22:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20334414
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/2002.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/d39e5e934e338e9802b4cbe851da4359.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/14551.png" group-title="Atom TV",Çek Cumhuriyeti - İtalya [22:05]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20334373
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/14551.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/14555.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/3482.png" group-title="Atom TV",Elche CF - Real Madrid C.F. [22:30]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-https://ladyboy.taylandpattaya.cfd//s-sport/tracks-v1a1/mono.m3u8
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/3482.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/65e3e972954419765c3ce21698edf6cb.png
-#EXTINF:-1 tvg-logo="https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/e794e36127572559358bc76b8487e0e5.png" group-title="Atom TV",Harrison/Hewitt - Skoch/Shymanovich [23:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
-20334867
-# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/e794e36127572559358bc76b8487e0e5.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/4c0b1cfcdef060ace15dea3bf16452fc.png
+20336104
+# İki logo: https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/4f99477ab27b1d46666bfccd3ee2845d.png | https://1xlite-5469.pro/resized/size16/sfiles/logo_teams/9971dc466942bac3a4d90d202d6c7bbf.png
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="Atom TV",BEIN SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv514.top/
