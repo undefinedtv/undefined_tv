@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/hd-realistic-basketball-ball-png-704081694878791vsyyyp96la.png" group-title="Maç Yayınları" ,19:00 | Sabah Bakü - Trabzonspor | FIBA Şampiyonlar Ligi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://andro.evrenesoglu235.click/checklist/androstreamlivecbcs.m3u8
-#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/hd-yellow-blue-and-white-volleyball-ball-png-70408169487874060mrdnzifk.png" group-title="Maç Yayınları" ,19:30 | Spor Toto SK - Onikişubat Belediyespor | TVF Erkekler Kupa Volley Çeyrek Final
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://andro.evrenesoglu235.click/checklist/androstreamlivetb6.m3u8
-#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,20:00 | Cluj Napoca - Türk Telekom | Eurocup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://andro.evrenesoglu235.click/checklist/androstreamlivetrts.m3u8
-#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,22:00 | Energia Trento - Tofaş | Eurocup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://andro.evrenesoglu235.click/checklist/androstreamlivetrtsy.m3u8
 #EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/hd-green-tennis-ball-transparent-png-704081694878789ibeew9de6z.png" group-title="Maç Yayınları" ,23:00 | M.Kostyuk - J.Pegula | WTA Indian Wells
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://andro.evrenesoglu235.click/checklist/androstreamlivebsm1.m3u8
@@ -77,6 +65,66 @@ https://andro.evrenesoglu235.click/checklist/androstreamlivess2.m3u8
 #EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/hd-green-tennis-ball-transparent-png-704081694878789ibeew9de6z.png" group-title="Maç Yayınları" ,23:00 | E.Svitolina - K.Muchova | WTA Indian Wells
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://andro.evrenesoglu235.click/checklist/androstreamlivebsm1.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/hd-green-tennis-ball-transparent-png-704081694878789ibeew9de6z.png" group-title="Maç Yayınları" ,00:30 | A.Sabalenka - M.Andreeva | WTA Indian Wells
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu235.click/checklist/androstreamlivebsm1.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/hd-realistic-basketball-ball-png-704081694878791vsyyyp96la.png" group-title="Maç Yayınları" ,03:00 | New York Knicks - Cleveland Cavaliers | NBA (Türkçe)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu235.click/checklist/androstreamlivess1.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/hd-realistic-basketball-ball-png-704081694878791vsyyyp96la.png" group-title="Maç Yayınları" ,05:30 | Houston Rockets - GS Warriors | NBA (Türkçe)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu235.click/checklist/androstreamlivess1.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,15:00 | Çeyrek Final Maç 1 | Çeyrek Final
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu235.click/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,17:00 | Çeyrek Final Maç 2 | Çeyrek Final
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu235.click/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/hd-yellow-blue-and-white-volleyball-ball-png-70408169487874060mrdnzifk.png" group-title="Maç Yayınları" ,18:00 | Vakifbank - Nilüfer Bld. | TVF Kadinlar Kupa Voley Çeyrek Final
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu235.click/checklist/androstreamlivetrtsy.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,20:00 | Litvanya - Surinam | Hazirlik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu235.click/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,20:00 | Türkiye - Belçika | UEFA Uluslar Ligi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu235.click/checklist/androstreamliveatv.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,20:30 | Çeyrek Final Maç 3 | Çeyrek Final
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu235.click/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,21:00 | Andorra - Azerbaycan | Hazirlik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu235.click/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,21:00 | Navalcarnero - Real Betis | İspanya Kral Kupasi Copa Del Rey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu235.click/checklist/androstreamliveht.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,21:55 | Maccabi Fox - Hapoel Tel Aviv | Euroleague
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu235.click/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,22:15 | Olympiakos - Dubai Basket | Euroleague
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu235.click/checklist/androstreamlivess2.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,22:30 | Olimpia Milano - Zalgiris Kaunas | Euroleague
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu235.click/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,22:30 | Valencia Basket - Bayern Münih | Euroleague
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu235.click/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,22:30 | Çeyrek Final Maç 4 | Çeyrek Final
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu235.click/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,22:45 | Arnavutluk - Finlandiya | UEFA Uluslar Ligi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu235.click/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,22:45 | İtalya - Fransa | UEFA Uluslar Ligi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu235.click/checklist/androstreamliveas.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,22:45 | Karadağ - Letonya | UEFA Uluslar Ligi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu235.click/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1  tvg-logo="https://www.citypng.com/public/uploads/preview/classic-football-ball-icon-701751694971327nyrhdxj8hy.png" group-title="Maç Yayınları" ,23:00 | Real Madrid - Kizilyildiz | Euroleague
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://andro.evrenesoglu235.click/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://patronsports2.cfd/img/beinsports1.png" group-title="Patron TV",BEIN SPORTS 1
 https://g1b.d72577a9dd0ec74.cfd/patron/mono.m3u8|Referer=https://taraftarium1087.xyz/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36&Origin=https://taraftarium1087.xyz&Accept-Language=en-US&Accept=*/*&Cache-Control=no-cache&Pragma=no-cache&Sec-CH-UA-Mobile=?0&Sec-CH-UA-Platform="Windows"&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site
 #EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-logo="https://patronsports2.cfd/img/beinsports2.png" group-title="Patron TV",BEIN SPORTS 2
@@ -149,7 +197,7 @@ https://g1b.d72577a9dd0ec74.cfd/ex3/mono.m3u8|Referer=https://taraftarium1087.xy
 https://g1b.d72577a9dd0ec74.cfd/ex4/mono.m3u8|Referer=https://taraftarium1087.xyz/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36&Origin=https://taraftarium1087.xyz&Accept-Language=en-US&Accept=*/*&Cache-Control=no-cache&Pragma=no-cache&Sec-CH-UA-Mobile=?0&Sec-CH-UA-Platform="Windows"&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site
 #EXTINF:-1 tvg-name="TABİİ SPOR 5" tvg-logo="https://patronsports2.cfd/img/tabii.png" group-title="Patron TV",TABİİ SPOR 5
 https://g1b.d72577a9dd0ec74.cfd/ex5/mono.m3u8|Referer=https://taraftarium1087.xyz/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36&Origin=https://taraftarium1087.xyz&Accept-Language=en-US&Accept=*/*&Cache-Control=no-cache&Pragma=no-cache&Sec-CH-UA-Mobile=?0&Sec-CH-UA-Platform="Windows"&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site
-# Guncelleme: 2026-11-10 12:19:14.957576
+# Guncelleme: 2026-11-10 19:59:29.089655
 # Toplam: 10
 #EXTINF:-1 tvg-name="beIN Sports 1" group-title="Atom TV",beIN Sports 1
 https://ronaldo.magnitude.workers.dev/?url=https://css.d6e3eds5e065t5.help//b1/tracks-v1a1/mono.m3u8
@@ -278,299 +326,263 @@ https://andro.evrenesoglu101.click/checklist/androstreamliveexn6.m3u8
 https://andro.evrenesoglu101.click/checklist/androstreamliveexn7.m3u8
 #EXTINF:-1 tvg-name="Exxen Sports 8" group-title="Andro TV",Exxen Sports 8
 https://andro.evrenesoglu101.click/checklist/androstreamliveexn8.m3u8
-#EXTINF:-1 tvg-name="Al Mokavlun Al Arab - And" group-title="Andro TV",[CANLI] Al Mokavlun Al Arab - And
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939003.m3u8
-#EXTINF:-1 tvg-name="Al Isteklal (Bayanlar) - Nashama Al-Mustaqbal (Bayanlar)" group-title="Andro TV",[CANLI] Al Isteklal (Bayanlar) - Nashama Al-Mustaqbal (Bayanlar)
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939008.m3u8
-#EXTINF:-1 tvg-name="Al Istiqlal (w) - Nashama Al-Mustaqbal (w)" group-title="Andro TV",[CANLI] Al Istiqlal (w) - Nashama Al-Mustaqbal (w)
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41878349.m3u8
-#EXTINF:-1 tvg-name="AC Bauta - Atletico Cuevita" group-title="Andro TV",[CANLI] AC Bauta - Atletico Cuevita
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939135.m3u8
-#EXTINF:-1 tvg-name="Sparta (Amatörler) - Emmen (Amaörler)" group-title="Andro TV",[CANLI] Sparta (Amatörler) - Emmen (Amaörler)
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939576.m3u8
-#EXTINF:-1 tvg-name="Santa Fe+ - Paris+" group-title="Andro TV",[CANLI] Santa Fe+ - Paris+
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939661.m3u8
-#EXTINF:-1 tvg-name="Star+ - Torpedo+" group-title="Andro TV",[CANLI] Star+ - Torpedo+
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939655.m3u8
-#EXTINF:-1 tvg-name="Chalten - Igatu" group-title="Andro TV",[CANLI] Chalten - Igatu
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939596.m3u8
-#EXTINF:-1 tvg-name="Lancers - Fury" group-title="Andro TV",[CANLI] Lancers - Fury
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939486.m3u8
-#EXTINF:-1 tvg-name="Prince (2x2) - Professor (2x2)" group-title="Andro TV",[CANLI] Prince (2x2) - Professor (2x2)
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939609.m3u8
-#EXTINF:-1 tvg-name="Italya (Joel) - Germany (Prime)" group-title="Andro TV",[CANLI] Italya (Joel) - Germany (Prime)
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939639.m3u8
-#EXTINF:-1 tvg-name="Baoding - Dandong" group-title="Andro TV",[CANLI] Baoding - Dandong
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939449.m3u8
-#EXTINF:-1 tvg-name="VfL Osnabruck (Amatörler) - 1860 Munchen (Amatörler)" group-title="Andro TV",[CANLI] VfL Osnabruck (Amatörler) - 1860 Munchen (Amatörler)
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939499.m3u8
-#EXTINF:-1 tvg-name="Salamanca+ - Toronto+" group-title="Andro TV",[CANLI] Salamanca+ - Toronto+
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939652.m3u8
-#EXTINF:-1 tvg-name="MANAG - GEO" group-title="Andro TV",[CANLI] MANAG - GEO
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939491.m3u8
-#EXTINF:-1 tvg-name="Barcelona (Brollan) - Manchester City (Tosen)" group-title="Andro TV",[CANLI] Barcelona (Brollan) - Manchester City (Tosen)
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939398.m3u8
-#EXTINF:-1 tvg-name="Zango - Sambizanga" group-title="Andro TV",[CANLI] Zango - Sambizanga
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939599.m3u8
-#EXTINF:-1 tvg-name="Tiger (3x3) - Brain (3x3)" group-title="Andro TV",[CANLI] Tiger (3x3) - Brain (3x3)
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939604.m3u8
-#EXTINF:-1 tvg-name="RAILWAY - AVIA" group-title="Andro TV",[CANLI] RAILWAY - AVIA
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939493.m3u8
-#EXTINF:-1 tvg-name="RB Leipzig (Amatörler) - Hertha (Amatörler)" group-title="Andro TV",[CANLI] RB Leipzig (Amatörler) - Hertha (Amatörler)
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939498.m3u8
-#EXTINF:-1 tvg-name="Crusaders+ - Huscarls+" group-title="Andro TV",[CANLI] Crusaders+ - Huscarls+
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939502.m3u8
-#EXTINF:-1 tvg-name="Binzhou Hawks FC - Heze Phoenix FC" group-title="Andro TV",[CANLI] Binzhou Hawks FC - Heze Phoenix FC
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939684.m3u8
-#EXTINF:-1 tvg-name="Okzhetpes Kokshetau - Turan" group-title="Andro TV",[CANLI] Okzhetpes Kokshetau - Turan
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938636.m3u8
-#EXTINF:-1 tvg-name="Shanghai Fives - Kunming Monks" group-title="Andro TV",[CANLI] Shanghai Fives - Kunming Monks
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938565.m3u8
-#EXTINF:-1 tvg-name="Metallurg - Desna Bryansk" group-title="Andro TV",[CANLI] Metallurg - Desna Bryansk
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938537.m3u8
-#EXTINF:-1 tvg-name="BC Chelbasket - Rusichi Kursk" group-title="Andro TV",[CANLI] BC Chelbasket - Rusichi Kursk
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938538.m3u8
-#EXTINF:-1 tvg-name="Monsters - Guardians" group-title="Andro TV",[CANLI] Monsters - Guardians
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938730.m3u8
-#EXTINF:-1 tvg-name="Buckets - Hot Boys" group-title="Andro TV",[CANLI] Buckets - Hot Boys
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938929.m3u8
-#EXTINF:-1 tvg-name="Elitzur Yavne - Otef Darom BC" group-title="Andro TV",[CANLI] Elitzur Yavne - Otef Darom BC
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41878439.m3u8
-#EXTINF:-1 tvg-name="Nabaya Sofas - Al Ittihad Tripoli" group-title="Andro TV",[CANLI] Nabaya Sofas - Al Ittihad Tripoli
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41878589.m3u8
-#EXTINF:-1 tvg-name="Broncos - Orioles" group-title="Andro TV",[CANLI] Broncos - Orioles
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939148.m3u8
-#EXTINF:-1 tvg-name="IPBL Moose - IPBL Lions" group-title="Andro TV",[CANLI] IPBL Moose - IPBL Lions
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939140.m3u8
-#EXTINF:-1 tvg-name="Scorpions - Dolphins" group-title="Andro TV",[CANLI] Scorpions - Dolphins
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939518.m3u8
-#EXTINF:-1 tvg-name="Suzhou Cats - Kunming Monks" group-title="Andro TV",[CANLI] Suzhou Cats - Kunming Monks
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939239.m3u8
-#EXTINF:-1 tvg-name="Kaluga (Bayanlar) - Norilsk (Bayanlar)" group-title="Andro TV",[CANLI] Kaluga (Bayanlar) - Norilsk (Bayanlar)
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939454.m3u8
-#EXTINF:-1 tvg-name="MBA Moskova - BC Avtodor" group-title="Andro TV",[CANLI] MBA Moskova - BC Avtodor
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939460.m3u8
-#EXTINF:-1 tvg-name="Youngstown State Penguins (Bayanlar) - Toledo Rockets (Bayanlar)" group-title="Andro TV",[CANLI] Youngstown State Penguins (Bayanlar) - Toledo Rockets (Bayanlar)
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939586.m3u8
-#EXTINF:-1 tvg-name="Kauno Atletas - Silute" group-title="Andro TV",[CANLI] Kauno Atletas - Silute
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939589.m3u8
-#EXTINF:-1 tvg-name="Ibc - Okk Ivanjica" group-title="Andro TV",[CANLI] Ibc - Okk Ivanjica
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939570.m3u8
-#EXTINF:-1 tvg-name="Kk Studentski Centar Podgorica - Kk Lim" group-title="Andro TV",[CANLI] Kk Studentski Centar Podgorica - Kk Lim
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939568.m3u8
-#EXTINF:-1 tvg-name="Çin (TBL) - Bulgaristan (TBL)" group-title="Andro TV",[CANLI] Çin (TBL) - Bulgaristan (TBL)
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939394.m3u8
-#EXTINF:-1 tvg-name="Kolombiya (TBL) - New Zealand (TBL)" group-title="Andro TV",[CANLI] Kolombiya (TBL) - New Zealand (TBL)
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939395.m3u8
-#EXTINF:-1 tvg-name="Kaliningrad - Moscow" group-title="Andro TV",[CANLI] Kaliningrad - Moscow
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939451.m3u8
-#EXTINF:-1 tvg-name="Sabah BK - BC Trabzonspor" group-title="Andro TV",[CANLI] Sabah BK - BC Trabzonspor
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939545.m3u8
-#EXTINF:-1 tvg-name="Sabah BK - Trabzonspor" group-title="Andro TV",[CANLI] Sabah BK - Trabzonspor
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41879423.m3u8
-#EXTINF:-1 tvg-name="MBA-MAI Moscow - Avtodor Saratov" group-title="Andro TV",[CANLI] MBA-MAI Moscow - Avtodor Saratov
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41879253.m3u8
-#EXTINF:-1 tvg-name="Kauno Atletas - Silute" group-title="Andro TV",[CANLI] Kauno Atletas - Silute
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41879511.m3u8
-#EXTINF:-1 tvg-name="Bowling Green (w) - Bellarmine (w)" group-title="Andro TV",[CANLI] Bowling Green (w) - Bellarmine (w)
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41879569.m3u8
-#EXTINF:-1 tvg-name="IBC - OKK Ivanjica" group-title="Andro TV",[CANLI] IBC - OKK Ivanjica
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41879473.m3u8
-#EXTINF:-1 tvg-name="Chelyabinsk - Khabarovsk" group-title="Andro TV",[CANLI] Chelyabinsk - Khabarovsk
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939517.m3u8
-#EXTINF:-1 tvg-name="Angarsk (Bayanlar) - Kirovgrad (Bayanlar)" group-title="Andro TV",[CANLI] Angarsk (Bayanlar) - Kirovgrad (Bayanlar)
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939507.m3u8
-#EXTINF:-1 tvg-name="Redemption - Outlaws" group-title="Andro TV",[CANLI] Redemption - Outlaws
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939492.m3u8
-#EXTINF:-1 tvg-name="IPBL Dogs - IPBL Camels" group-title="Andro TV",[CANLI] IPBL Dogs - IPBL Camels
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939524.m3u8
-#EXTINF:-1 tvg-name="IPBL Lynx (Bayanlar) - IPBL Dolphins (Bayanlar)" group-title="Andro TV",[CANLI] IPBL Lynx (Bayanlar) - IPBL Dolphins (Bayanlar)
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939510.m3u8
-#EXTINF:-1 tvg-name="Elitzur Yavne B.C. - Otef Darom" group-title="Andro TV",[CANLI] Elitzur Yavne B.C. - Otef Darom
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939053.m3u8
-#EXTINF:-1 tvg-name="Bellarmine Knights (Bayanlar) - Bowling Green (Bayanlar)" group-title="Andro TV",[CANLI] Bellarmine Knights (Bayanlar) - Bowling Green (Bayanlar)
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939618.m3u8
-#EXTINF:-1 tvg-name="İspanya - Kanada" group-title="Andro TV",[CANLI] İspanya - Kanada
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938941.m3u8
-#EXTINF:-1 tvg-name="Ukrayna - ABD" group-title="Andro TV",[CANLI] Ukrayna - ABD
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939212.m3u8
-#EXTINF:-1 tvg-name="Turan Baku (Women) - Maritza Plovdiv (Bayanlar)" group-title="Andro TV",[CANLI] Turan Baku (Women) - Maritza Plovdiv (Bayanlar)
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938527.m3u8
-#EXTINF:-1 tvg-name="Okzhetpes (Bayanlar) - Şımkent (Bayanlar)" group-title="Andro TV",[CANLI] Okzhetpes (Bayanlar) - Şımkent (Bayanlar)
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938848.m3u8
-#EXTINF:-1 tvg-name="Okzhetpes (w) - Shymkent (w)" group-title="Andro TV",[CANLI] Okzhetpes (w) - Shymkent (w)
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41878029.m3u8
-#EXTINF:-1 tvg-name="Rusya (Bayanlar) - ABD (Bayanlar)" group-title="Andro TV",[CANLI] Rusya (Bayanlar) - ABD (Bayanlar)
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938598.m3u8
-#EXTINF:-1 tvg-name="Doğu Akademi Spor - Fenerbahce III" group-title="Andro TV",[CANLI] Doğu Akademi Spor - Fenerbahce III
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939120.m3u8
-#EXTINF:-1 tvg-name="Al-Arabi - Al-Khor" group-title="Andro TV",[CANLI] Al-Arabi - Al-Khor
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41879119.m3u8
-#EXTINF:-1 tvg-name="Sureyyapasa Genclik - Fenerbahce III" group-title="Andro TV",[CANLI] Sureyyapasa Genclik - Fenerbahce III
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41878573.m3u8
-#EXTINF:-1 tvg-name="Dynamo Olimp (Youth) - Yenisei (pier)" group-title="Andro TV",[CANLI] Dynamo Olimp (Youth) - Yenisei (pier)
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939266.m3u8
-#EXTINF:-1 tvg-name="Japonya - Arjantin" group-title="Andro TV",[CANLI] Japonya - Arjantin
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939165.m3u8
-#EXTINF:-1 tvg-name="Çin (Bayanlar) - Brezilya (Bayanlar)" group-title="Andro TV",[CANLI] Çin (Bayanlar) - Brezilya (Bayanlar)
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939204.m3u8
-#EXTINF:-1 tvg-name="Annunziata Mesagne U19 - Villaggio Sportivo Dribbling U19" group-title="Andro TV",[CANLI] Annunziata Mesagne U19 - Villaggio Sportivo Dribbling U19
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939461.m3u8
-#EXTINF:-1 tvg-name="Cement (4x4) - Sputnik (4x4)" group-title="Andro TV",[CANLI] Cement (4x4) - Sputnik (4x4)
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939413.m3u8
-#EXTINF:-1 tvg-name="SS Annunziata Mesagne U-19 - Dribbling Sport Village Taranto U-19" group-title="Andro TV",[CANLI] SS Annunziata Mesagne U-19 - Dribbling Sport Village Taranto U-19
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41879255.m3u8
-#EXTINF:-1 tvg-name="Slovenya - Polonya" group-title="Andro TV",[CANLI] Slovenya - Polonya
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939536.m3u8
-#EXTINF:-1 tvg-name="Avustralya (Pro) - Belçika (Pro)" group-title="Andro TV",[CANLI] Avustralya (Pro) - Belçika (Pro)
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939583.m3u8
-#EXTINF:-1 tvg-name="Al Arabi Katar - Al Khor" group-title="Andro TV",[CANLI] Al Arabi Katar - Al Khor
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939393.m3u8
-#EXTINF:-1 tvg-name="Maria Hlaola - Sofia Isabella Ragus" group-title="Andro TV",[CANLI] Maria Hlaola - Sofia Isabella Ragus
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20936910.m3u8
-#EXTINF:-1 tvg-name="Peter Hutton - Eduard Villoslada" group-title="Andro TV",[CANLI] Peter Hutton - Eduard Villoslada
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20937240.m3u8
-#EXTINF:-1 tvg-name="Maya Radenkovich - Vladlena Bokova" group-title="Andro TV",[CANLI] Maya Radenkovich - Vladlena Bokova
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20937290.m3u8
-#EXTINF:-1 tvg-name="Sergi Perez Contri - John Sperle" group-title="Andro TV",[CANLI] Sergi Perez Contri - John Sperle
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938130.m3u8
-#EXTINF:-1 tvg-name="Lorenzo Joaquin Rodriguez - Javier Barranco Cosano" group-title="Andro TV",[CANLI] Lorenzo Joaquin Rodriguez - Javier Barranco Cosano
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938079.m3u8
-#EXTINF:-1 tvg-name="Antonio Caruso Sebastiano Cocola - Daniel Aleksandar Amarandei Andrea Fiorentini" group-title="Andro TV",[CANLI] Antonio Caruso Sebastiano Cocola - Daniel Aleksandar Amarandei Andrea Fiorentini
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938135.m3u8
-#EXTINF:-1 tvg-name="SONEGO, LORENZO - HALYS, QUENTIN" group-title="Andro TV",[CANLI] SONEGO, LORENZO - HALYS, QUENTIN
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938251.m3u8
-#EXTINF:-1 tvg-name="CERVANTES I MARTINEZ P - CATRY R URSU V" group-title="Andro TV",[CANLI] CERVANTES I MARTINEZ P - CATRY R URSU V
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938320.m3u8
-#EXTINF:-1 tvg-name="Krystyna Pochtovyk Ilinca Sagmar - Lia Karatancheva Sofia Shapatava" group-title="Andro TV",[CANLI] Krystyna Pochtovyk Ilinca Sagmar - Lia Karatancheva Sofia Shapatava
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938371.m3u8
-#EXTINF:-1 tvg-name="TSITSIPAS, PAVLOS - CRETU, CEZAR" group-title="Andro TV",[CANLI] TSITSIPAS, PAVLOS - CRETU, CEZAR
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938432.m3u8
-#EXTINF:-1 tvg-name="Patricia Georgiana Goina Simona Ogescu - Mirjana Jovanovic Beatris Spasova" group-title="Andro TV",[CANLI] Patricia Georgiana Goina Simona Ogescu - Mirjana Jovanovic Beatris Spasova
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938508.m3u8
-#EXTINF:-1 tvg-name="Eero Vasa - Goncalo Marques" group-title="Andro TV",[CANLI] Eero Vasa - Goncalo Marques
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938480.m3u8
-#EXTINF:-1 tvg-name="Edgar Kocharyan - Igor Sichevskiy" group-title="Andro TV",[CANLI] Edgar Kocharyan - Igor Sichevskiy
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938357.m3u8
-#EXTINF:-1 tvg-name="Rudolf Molleker Sebastian Sorger - Izan Almazan Valiente Pavel Lagutin" group-title="Andro TV",[CANLI] Rudolf Molleker Sebastian Sorger - Izan Almazan Valiente Pavel Lagutin
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938577.m3u8
-#EXTINF:-1 tvg-name="Arthur Rinderknech - Miomir Kecmanovic" group-title="Andro TV",[CANLI] Arthur Rinderknech - Miomir Kecmanovic
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938741.m3u8
-#EXTINF:-1 tvg-name="Evgeny Kavtorev - Boris Timonkin" group-title="Andro TV",[CANLI] Evgeny Kavtorev - Boris Timonkin
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938635.m3u8
-#EXTINF:-1 tvg-name="Andriy Poritskyy Essa Qabazard - Jan Facek Matej Panik" group-title="Andro TV",[CANLI] Andriy Poritskyy Essa Qabazard - Jan Facek Matej Panik
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938768.m3u8
-#EXTINF:-1 tvg-name="Pablo Perez Ramos - Tyler Zink" group-title="Andro TV",[CANLI] Pablo Perez Ramos - Tyler Zink
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938840.m3u8
-#EXTINF:-1 tvg-name="Pablo Perez Ramos - Tyler Zink" group-title="Andro TV",[CANLI] Pablo Perez Ramos - Tyler Zink
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41878013.m3u8
-#EXTINF:-1 tvg-name="Arthur Rinderknech - Miomir Kecmanovic" group-title="Andro TV",[CANLI] Arthur Rinderknech - Miomir Kecmanovic
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41877815.m3u8
-#EXTINF:-1 tvg-name="Luca Potenza Giorgio Tabacco - Giuseppe La Vela Pietro Marino" group-title="Andro TV",[CANLI] Luca Potenza Giorgio Tabacco - Giuseppe La Vela Pietro Marino
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938992.m3u8
-#EXTINF:-1 tvg-name="RINCON, DANIEL - DE LA FUENTE, SANTIAGO" group-title="Andro TV",[CANLI] RINCON, DANIEL - DE LA FUENTE, SANTIAGO
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939087.m3u8
-#EXTINF:-1 tvg-name="ZAVALAGA UCULMANA, FABIO MANUEL - BARRENA, ALEX" group-title="Andro TV",[CANLI] ZAVALAGA UCULMANA, FABIO MANUEL - BARRENA, ALEX
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939089.m3u8
-#EXTINF:-1 tvg-name="Zsombor Piros - Luca Nardi" group-title="Andro TV",[CANLI] Zsombor Piros - Luca Nardi
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938978.m3u8
-#EXTINF:-1 tvg-name="Thiago Horacio Messa - Breno Braga" group-title="Andro TV",[CANLI] Thiago Horacio Messa - Breno Braga
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939080.m3u8
-#EXTINF:-1 tvg-name="Orel Kimhi - Filip Jeff Planinsek" group-title="Andro TV",[CANLI] Orel Kimhi - Filip Jeff Planinsek
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939054.m3u8
-#EXTINF:-1 tvg-name="Juan Carlos Prado Angelo - Ryo Tabata" group-title="Andro TV",[CANLI] Juan Carlos Prado Angelo - Ryo Tabata
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939046.m3u8
-#EXTINF:-1 tvg-name="Lui Maxted - Hynek Barton" group-title="Andro TV",[CANLI] Lui Maxted - Hynek Barton
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939100.m3u8
-#EXTINF:-1 tvg-name="Carlo Alberto Caniato - Gilles Arnaud Bailly" group-title="Andro TV",[CANLI] Carlo Alberto Caniato - Gilles Arnaud Bailly
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20938986.m3u8
-#EXTINF:-1 tvg-name="Carlo Alberto Caniato - Gilles Arnaud Bailly" group-title="Andro TV",[CANLI] Carlo Alberto Caniato - Gilles Arnaud Bailly
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41878305.m3u8
-#EXTINF:-1 tvg-name="Thomas Gerbaud - Daniel Kliebhan" group-title="Andro TV",[CANLI] Thomas Gerbaud - Daniel Kliebhan
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41878359.m3u8
-#EXTINF:-1 tvg-name="Niels Peter Van Noord - Stephen Slocombe" group-title="Andro TV",[CANLI] Niels Peter Van Noord - Stephen Slocombe
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41878407.m3u8
-#EXTINF:-1 tvg-name="Orel Kimhi - Filip Jeff Planinsek" group-title="Andro TV",[CANLI] Orel Kimhi - Filip Jeff Planinsek
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41878441.m3u8
-#EXTINF:-1 tvg-name="Margaret Sohns - Malwina Rowinska" group-title="Andro TV",[CANLI] Margaret Sohns - Malwina Rowinska
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41878467.m3u8
-#EXTINF:-1 tvg-name="Zsombor Piros - Luca Nardi" group-title="Andro TV",[CANLI] Zsombor Piros - Luca Nardi
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41878289.m3u8
-#EXTINF:-1 tvg-name="Daniel Rincon - Santiago De La Fuente" group-title="Andro TV",[CANLI] Daniel Rincon - Santiago De La Fuente
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41878507.m3u8
-#EXTINF:-1 tvg-name="Joshua Peck - Lucas Hammond" group-title="Andro TV",[CANLI] Joshua Peck - Lucas Hammond
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41878457.m3u8
-#EXTINF:-1 tvg-name="Jaden Weekes - Eric David Verdes" group-title="Andro TV",[CANLI] Jaden Weekes - Eric David Verdes
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41878479.m3u8
-#EXTINF:-1 tvg-name="Lexington Reed - Rachel Gailis" group-title="Andro TV",[CANLI] Lexington Reed - Rachel Gailis
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41878469.m3u8
-#EXTINF:-1 tvg-name="Lui Maxted - Hynek Barton" group-title="Andro TV",[CANLI] Lui Maxted - Hynek Barton
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41878533.m3u8
-#EXTINF:-1 tvg-name="Thiago Horacio Messa - Breno Braga" group-title="Andro TV",[CANLI] Thiago Horacio Messa - Breno Braga
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41878493.m3u8
-#EXTINF:-1 tvg-name="Jana Hossam Salah - Paula Ormaechea" group-title="Andro TV",[CANLI] Jana Hossam Salah - Paula Ormaechea
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939133.m3u8
-#EXTINF:-1 tvg-name="Juan Carlos Prado Angelo - Ryo Tabata" group-title="Andro TV",[CANLI] Juan Carlos Prado Angelo - Ryo Tabata
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41878425.m3u8
-#EXTINF:-1 tvg-name="Jana Hossam Salah - Paula Ormaechea" group-title="Andro TV",[CANLI] Jana Hossam Salah - Paula Ormaechea
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41878599.m3u8
-#EXTINF:-1 tvg-name="GALLOWAY R GORANSSON A - POLMANS M ZIELINSKI J" group-title="Andro TV",[CANLI] GALLOWAY R GORANSSON A - POLMANS M ZIELINSKI J
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939296.m3u8
-#EXTINF:-1 tvg-name="Vasco Leote Prata Diogo Morais - Aleksandr Braynin Stepan Pecak" group-title="Andro TV",[CANLI] Vasco Leote Prata Diogo Morais - Aleksandr Braynin Stepan Pecak
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939234.m3u8
-#EXTINF:-1 tvg-name="Rodrigo Leal Duarte Lima Sanches - Goncalo Da Rosa Castro Salvador Monteiro" group-title="Andro TV",[CANLI] Rodrigo Leal Duarte Lima Sanches - Goncalo Da Rosa Castro Salvador Monteiro
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939342.m3u8
-#EXTINF:-1 tvg-name="Alice Tubello - Julia Riera" group-title="Andro TV",[CANLI] Alice Tubello - Julia Riera
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41878975.m3u8
-#EXTINF:-1 tvg-name="Lucia Bronzetti - Julieta Pareja" group-title="Andro TV",[CANLI] Lucia Bronzetti - Julieta Pareja
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41879005.m3u8
-#EXTINF:-1 tvg-name="Carole Monnet - Leyre Romero Gormaz" group-title="Andro TV",[CANLI] Carole Monnet - Leyre Romero Gormaz
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41879011.m3u8
-#EXTINF:-1 tvg-name="Dmitry Kryukov - Sergey Penin" group-title="Andro TV",[CANLI] Dmitry Kryukov - Sergey Penin
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939357.m3u8
-#EXTINF:-1 tvg-name="Andre Goransson/Robert Galloway - Marc Polmans/Jan Zielinski" group-title="Andro TV",[CANLI] Andre Goransson/Robert Galloway - Marc Polmans/Jan Zielinski
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41878925.m3u8
-#EXTINF:-1 tvg-name="Augusto Land - Gabriel Augusto Carvalho" group-title="Andro TV",[CANLI] Augusto Land - Gabriel Augusto Carvalho
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939531.m3u8
-#EXTINF:-1 tvg-name="Simone Massucco Michele Mecarelli - Ruggero Condorelli Cayden Frost" group-title="Andro TV",[CANLI] Simone Massucco Michele Mecarelli - Ruggero Condorelli Cayden Frost
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939564.m3u8
-#EXTINF:-1 tvg-name="Sebastian Baez - Daniil Glinka" group-title="Andro TV",[CANLI] Sebastian Baez - Daniil Glinka
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939607.m3u8
-#EXTINF:-1 tvg-name="Lucia Bronzetti - Julieta Pareja" group-title="Andro TV",[CANLI] Lucia Bronzetti - Julieta Pareja
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939336.m3u8
-#EXTINF:-1 tvg-name="Carole Monnet - Leyre Romero Gormaz" group-title="Andro TV",[CANLI] Carole Monnet - Leyre Romero Gormaz
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939339.m3u8
-#EXTINF:-1 tvg-name="Alice Tubello - Julia Riera" group-title="Andro TV",[CANLI] Alice Tubello - Julia Riera
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939321.m3u8
-#EXTINF:-1 tvg-name="Augusto Land - Gabriel Augusto Carvalho" group-title="Andro TV",[CANLI] Augusto Land - Gabriel Augusto Carvalho
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41879395.m3u8
-#EXTINF:-1 tvg-name="Tom Sickenberger - Agassi Rusher" group-title="Andro TV",[CANLI] Tom Sickenberger - Agassi Rusher
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41879465.m3u8
-#EXTINF:-1 tvg-name="Jonah Braswell - Isaac Forde" group-title="Andro TV",[CANLI] Jonah Braswell - Isaac Forde
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41879491.m3u8
-#EXTINF:-1 tvg-name="Sebastian Baez - Daniil Glinka" group-title="Andro TV",[CANLI] Sebastian Baez - Daniil Glinka
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41879547.m3u8
-#EXTINF:-1 tvg-name="Andrej Nedic - Michele Ribecai" group-title="Andro TV",[CANLI] Andrej Nedic - Michele Ribecai
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41879561.m3u8
-#EXTINF:-1 tvg-name="Andrej Nedic - Michele Ribecai" group-title="Andro TV",[CANLI] Andrej Nedic - Michele Ribecai
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939614.m3u8
-#EXTINF:-1 tvg-name="Nikolas Sanchez Izquierdo - Nicolas Jarry" group-title="Andro TV",[CANLI] Nikolas Sanchez Izquierdo - Nicolas Jarry
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20939659.m3u8
+#EXTINF:-1 tvg-name="Koln (Amatörler) - Union (Amatörler)" group-title="Andro TV",[CANLI] Koln (Amatörler) - Union (Amatörler)
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20942192.m3u8
+#EXTINF:-1 tvg-name="Florida National - Georgia Gwinnett College" group-title="Andro TV",[CANLI] Florida National - Georgia Gwinnett College
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20942228.m3u8
+#EXTINF:-1 tvg-name="CD Cacahuatique - C.D. Luis Angel Firpo" group-title="Andro TV",[CANLI] CD Cacahuatique - C.D. Luis Angel Firpo
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20942194.m3u8
+#EXTINF:-1 tvg-name="CD Cacahuatique - L.A. Firpo" group-title="Andro TV",[CANLI] CD Cacahuatique - L.A. Firpo
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41884721.m3u8
+#EXTINF:-1 tvg-name="PSY - IT" group-title="Andro TV",[CANLI] PSY - IT
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20942138.m3u8
+#EXTINF:-1 tvg-name="Galaxy+ - Fire +" group-title="Andro TV",[CANLI] Galaxy+ - Fire +
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20942037.m3u8
+#EXTINF:-1 tvg-name="Montreal + - Tampa Bay +" group-title="Andro TV",[CANLI] Montreal + - Tampa Bay +
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20942160.m3u8
+#EXTINF:-1 tvg-name="Paderborn (Amatörler) - Freiburg (Amatörler)" group-title="Andro TV",[CANLI] Paderborn (Amatörler) - Freiburg (Amatörler)
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20942193.m3u8
+#EXTINF:-1 tvg-name="Waalwijk (Amatörler) - Volendam (Amatörler)" group-title="Andro TV",[CANLI] Waalwijk (Amatörler) - Volendam (Amatörler)
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20942190.m3u8
+#EXTINF:-1 tvg-name="LANDSCAPE - MINERALOGY" group-title="Andro TV",[CANLI] LANDSCAPE - MINERALOGY
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20942133.m3u8
+#EXTINF:-1 tvg-name="Crowley Town - Brentford 21" group-title="Andro TV",[CANLI] Crowley Town - Brentford 21
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941292.m3u8
+#EXTINF:-1 tvg-name="Boston River - Montevideo City Torque" group-title="Andro TV",[CANLI] Boston River - Montevideo City Torque
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941287.m3u8
+#EXTINF:-1 tvg-name="Huracan Del Paso Arena - River Plate Montevideo" group-title="Andro TV",[CANLI] Huracan Del Paso Arena - River Plate Montevideo
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941331.m3u8
+#EXTINF:-1 tvg-name="Bromley - Milton Keynes Dons" group-title="Andro TV",[CANLI] Bromley - Milton Keynes Dons
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941293.m3u8
+#EXTINF:-1 tvg-name="Bradford City - York City" group-title="Andro TV",[CANLI] Bradford City - York City
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941290.m3u8
+#EXTINF:-1 tvg-name="Colchester - Ipswich Town U21" group-title="Andro TV",[CANLI] Colchester - Ipswich Town U21
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941422.m3u8
+#EXTINF:-1 tvg-name="Colchester - Ipswich Town U-21" group-title="Andro TV",[CANLI] Colchester - Ipswich Town U-21
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41883177.m3u8
+#EXTINF:-1 tvg-name="PSG (Bayanlar) - Bayern München (Bayanlar)" group-title="Andro TV",[CANLI] PSG (Bayanlar) - Bayern München (Bayanlar)
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941468.m3u8
+#EXTINF:-1 tvg-name="Roma (Bayanlar) - Servette Chenois (Bayanlar)" group-title="Andro TV",[CANLI] Roma (Bayanlar) - Servette Chenois (Bayanlar)
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941473.m3u8
+#EXTINF:-1 tvg-name="Inter Milano (Bayanlar) - Manchester City (Bayanlar)" group-title="Andro TV",[CANLI] Inter Milano (Bayanlar) - Manchester City (Bayanlar)
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941474.m3u8
+#EXTINF:-1 tvg-name="Tavernes - Valencia" group-title="Andro TV",[CANLI] Tavernes - Valencia
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941556.m3u8
+#EXTINF:-1 tvg-name="UE Tavernes - Valencia" group-title="Andro TV",[CANLI] UE Tavernes - Valencia
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41883445.m3u8
+#EXTINF:-1 tvg-name="Volgograd - Rostov-on-Don" group-title="Andro TV",[CANLI] Volgograd - Rostov-on-Don
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941936.m3u8
+#EXTINF:-1 tvg-name="Malaysia (TBL) - Meksika (TBL)" group-title="Andro TV",[CANLI] Malaysia (TBL) - Meksika (TBL)
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941933.m3u8
+#EXTINF:-1 tvg-name="Peru (TBL) - İtalya (TBL)" group-title="Andro TV",[CANLI] Peru (TBL) - İtalya (TBL)
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941926.m3u8
+#EXTINF:-1 tvg-name="IPBL Scorpions - IPBL Huskies" group-title="Andro TV",[CANLI] IPBL Scorpions - IPBL Huskies
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20942002.m3u8
+#EXTINF:-1 tvg-name="Bilbao Basket - ALBA Berlin" group-title="Andro TV",[CANLI] Bilbao Basket - ALBA Berlin
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941071.m3u8
+#EXTINF:-1 tvg-name="Spartak Subotica - Cholet Basket" group-title="Andro TV",[CANLI] Spartak Subotica - Cholet Basket
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941069.m3u8
+#EXTINF:-1 tvg-name="Trento - Tofaş" group-title="Andro TV",[CANLI] Trento - Tofaş
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941074.m3u8
+#EXTINF:-1 tvg-name="Rostock Sewolves - Cedevita Olimpija" group-title="Andro TV",[CANLI] Rostock Sewolves - Cedevita Olimpija
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941077.m3u8
+#EXTINF:-1 tvg-name="Lyulin Team 27 - Voltron" group-title="Andro TV",[CANLI] Lyulin Team 27 - Voltron
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941121.m3u8
+#EXTINF:-1 tvg-name="Poitiers - Caen Basket" group-title="Andro TV",[CANLI] Poitiers - Caen Basket
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941112.m3u8
+#EXTINF:-1 tvg-name="Manchester Basketbol - Elan Chalon" group-title="Andro TV",[CANLI] Manchester Basketbol - Elan Chalon
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941093.m3u8
+#EXTINF:-1 tvg-name="Basquet Manresa - KK Bosna Royal" group-title="Andro TV",[CANLI] Basquet Manresa - KK Bosna Royal
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941330.m3u8
+#EXTINF:-1 tvg-name="London Lions - Reyer Venezia" group-title="Andro TV",[CANLI] London Lions - Reyer Venezia
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941326.m3u8
+#EXTINF:-1 tvg-name="İspanya (Bayanlar) - Çekya (Bayanlar)" group-title="Andro TV",[CANLI] İspanya (Bayanlar) - Çekya (Bayanlar)
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941336.m3u8
+#EXTINF:-1 tvg-name="Basquet Manresa - KK Bosna Sarajevo" group-title="Andro TV",[CANLI] Basquet Manresa - KK Bosna Sarajevo
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41882993.m3u8
+#EXTINF:-1 tvg-name="Spintex Knights - Jeunesse Kings" group-title="Andro TV",[CANLI] Spintex Knights - Jeunesse Kings
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941593.m3u8
+#EXTINF:-1 tvg-name="Spintex Knights - JCA" group-title="Andro TV",[CANLI] Spintex Knights - JCA
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41883519.m3u8
+#EXTINF:-1 tvg-name="IPBL Boars - IPBL Bulls" group-title="Andro TV",[CANLI] IPBL Boars - IPBL Bulls
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941831.m3u8
+#EXTINF:-1 tvg-name="Dubai (cyber) - Barcelona (cyber)" group-title="Andro TV",[CANLI] Dubai (cyber) - Barcelona (cyber)
+https://andro.evrenesoglu101.click/checklist/androstreamlivech56539572.m3u8
+#EXTINF:-1 tvg-name="Paris (cyber) - Zalgiris (cyber)" group-title="Andro TV",[CANLI] Paris (cyber) - Zalgiris (cyber)
+https://andro.evrenesoglu101.click/checklist/androstreamlivech56540025.m3u8
+#EXTINF:-1 tvg-name="Denver Nuggets (cyber) - Cleveland Cavaliers (cyber)" group-title="Andro TV",[CANLI] Denver Nuggets (cyber) - Cleveland Cavaliers (cyber)
+https://andro.evrenesoglu101.click/checklist/androstreamlivech56539347.m3u8
+#EXTINF:-1 tvg-name="Los Angeles Lakers (cyber) - Houston Rockets (cyber)" group-title="Andro TV",[CANLI] Los Angeles Lakers (cyber) - Houston Rockets (cyber)
+https://andro.evrenesoglu101.click/checklist/androstreamlivech56539942.m3u8
+#EXTINF:-1 tvg-name="İtalya (Pro) - Polonya (Pro)" group-title="Andro TV",[CANLI] İtalya (Pro) - Polonya (Pro)
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20942022.m3u8
+#EXTINF:-1 tvg-name="SAO JOSE DOS CAMPOS - MONTES CLAROS VOLEI" group-title="Andro TV",[CANLI] SAO JOSE DOS CAMPOS - MONTES CLAROS VOLEI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20942163.m3u8
+#EXTINF:-1 tvg-name="Çin (Bayanlar) - Rusya (Bayanlar)" group-title="Andro TV",[CANLI] Çin (Bayanlar) - Rusya (Bayanlar)
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20942128.m3u8
+#EXTINF:-1 tvg-name="Katowice - CKS Chelm" group-title="Andro TV",[CANLI] Katowice - CKS Chelm
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20939710.m3u8
+#EXTINF:-1 tvg-name="Hollandaa - Kanada" group-title="Andro TV",[CANLI] Hollandaa - Kanada
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941871.m3u8
+#EXTINF:-1 tvg-name="Letonya - ABD" group-title="Andro TV",[CANLI] Letonya - ABD
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941877.m3u8
+#EXTINF:-1 tvg-name="Slovenya - Rusya" group-title="Andro TV",[CANLI] Slovenya - Rusya
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941406.m3u8
+#EXTINF:-1 tvg-name="Brezilya (Bayanlar) - Sırbistan (Bayanlar)" group-title="Andro TV",[CANLI] Brezilya (Bayanlar) - Sırbistan (Bayanlar)
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941405.m3u8
+#EXTINF:-1 tvg-name="Travers (4x4) - Vostok (4x4)" group-title="Andro TV",[CANLI] Travers (4x4) - Vostok (4x4)
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941369.m3u8
+#EXTINF:-1 tvg-name="İtalya - ABD" group-title="Andro TV",[CANLI] İtalya - ABD
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941585.m3u8
+#EXTINF:-1 tvg-name="Foxy-Pro (Bayanlar) - Panteres-Pro (Bayanlar)" group-title="Andro TV",[CANLI] Foxy-Pro (Bayanlar) - Panteres-Pro (Bayanlar)
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20942021.m3u8
+#EXTINF:-1 tvg-name="KOLAR, ZDENEK - REIS DA SILVA, JOAO LUCAS" group-title="Andro TV",[CANLI] KOLAR, ZDENEK - REIS DA SILVA, JOAO LUCAS
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20942056.m3u8
+#EXTINF:-1 tvg-name="Shayra Hope Rivera - Nela Linhartova" group-title="Andro TV",[CANLI] Shayra Hope Rivera - Nela Linhartova
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20942075.m3u8
+#EXTINF:-1 tvg-name="Sofia Avataneo - Miriam Bianca Bulgaru" group-title="Andro TV",[CANLI] Sofia Avataneo - Miriam Bianca Bulgaru
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20942062.m3u8
+#EXTINF:-1 tvg-name="Victoria Hu Ashley Lahey - Samantha Alicea Jamilah Snells" group-title="Andro TV",[CANLI] Victoria Hu Ashley Lahey - Samantha Alicea Jamilah Snells
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20942054.m3u8
+#EXTINF:-1 tvg-name="Zdenek Kolar - Joao Lucas Reis da Silva" group-title="Andro TV",[CANLI] Zdenek Kolar - Joao Lucas Reis da Silva
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41884445.m3u8
+#EXTINF:-1 tvg-name="Andre Souza - Pedro Boscardin Dias" group-title="Andro TV",[CANLI] Andre Souza - Pedro Boscardin Dias
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20942156.m3u8
+#EXTINF:-1 tvg-name="Mikael Arseneault Jared Horwood - Daniel De Jonge Jannik Opitz" group-title="Andro TV",[CANLI] Mikael Arseneault Jared Horwood - Daniel De Jonge Jannik Opitz
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20942129.m3u8
+#EXTINF:-1 tvg-name="Oskar Brostrom Poulsen Nikola Slavic - Miko Lapalme Felix Roussel" group-title="Andro TV",[CANLI] Oskar Brostrom Poulsen Nikola Slavic - Miko Lapalme Felix Roussel
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20942114.m3u8
+#EXTINF:-1 tvg-name="Andrew Gordon - Elie Azoulay" group-title="Andro TV",[CANLI] Andrew Gordon - Elie Azoulay
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20942140.m3u8
+#EXTINF:-1 tvg-name="Diego Britt-Alvarez - Saahil Gupte" group-title="Andro TV",[CANLI] Diego Britt-Alvarez - Saahil Gupte
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20942165.m3u8
+#EXTINF:-1 tvg-name="Anastasia Tikhonova - Miriana Tona" group-title="Andro TV",[CANLI] Anastasia Tikhonova - Miriana Tona
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941123.m3u8
+#EXTINF:-1 tvg-name="Anastasia Tikhonova - Miriana Tona" group-title="Andro TV",[CANLI] Anastasia Tikhonova - Miriana Tona
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41882579.m3u8
+#EXTINF:-1 tvg-name="MOELLER, ELMER - OLIVIERI, GENARO ALBERTO" group-title="Andro TV",[CANLI] MOELLER, ELMER - OLIVIERI, GENARO ALBERTO
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941190.m3u8
+#EXTINF:-1 tvg-name="Ilija Palavestra - Emanuel Ivanisevic" group-title="Andro TV",[CANLI] Ilija Palavestra - Emanuel Ivanisevic
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941217.m3u8
+#EXTINF:-1 tvg-name="Imran Daniel Abdul Hazli - Francisco Salmain" group-title="Andro TV",[CANLI] Imran Daniel Abdul Hazli - Francisco Salmain
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941169.m3u8
+#EXTINF:-1 tvg-name="Ilan Hediger - Raphael Botran Neutz" group-title="Andro TV",[CANLI] Ilan Hediger - Raphael Botran Neutz
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941163.m3u8
+#EXTINF:-1 tvg-name="Andrew Lee - Otso Martikainen" group-title="Andro TV",[CANLI] Andrew Lee - Otso Martikainen
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941161.m3u8
+#EXTINF:-1 tvg-name="Arin Pallegar - Timeo Bretin" group-title="Andro TV",[CANLI] Arin Pallegar - Timeo Bretin
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941160.m3u8
+#EXTINF:-1 tvg-name="Elmer Moeller - Genaro Alberto Olivieri" group-title="Andro TV",[CANLI] Elmer Moeller - Genaro Alberto Olivieri
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41882713.m3u8
+#EXTINF:-1 tvg-name="Ilija Palavestra - Emanuel Ivanisevic" group-title="Andro TV",[CANLI] Ilija Palavestra - Emanuel Ivanisevic
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41882767.m3u8
+#EXTINF:-1 tvg-name="Marco Cecchinato - Francisco Comesana" group-title="Andro TV",[CANLI] Marco Cecchinato - Francisco Comesana
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941388.m3u8
+#EXTINF:-1 tvg-name="Marco Cecchinato - Francisco Comesana" group-title="Andro TV",[CANLI] Marco Cecchinato - Francisco Comesana
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41883109.m3u8
+#EXTINF:-1 tvg-name="Marta Kostyuk - Jessica Pegula" group-title="Andro TV",[CANLI] Marta Kostyuk - Jessica Pegula
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941451.m3u8
+#EXTINF:-1 tvg-name="Laura Samson - Carolina Alves" group-title="Andro TV",[CANLI] Laura Samson - Carolina Alves
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941496.m3u8
+#EXTINF:-1 tvg-name="Micah Braswell - Theo Papamalamis" group-title="Andro TV",[CANLI] Micah Braswell - Theo Papamalamis
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941488.m3u8
+#EXTINF:-1 tvg-name="Micah Braswell - Theo Papamalamis" group-title="Andro TV",[CANLI] Micah Braswell - Theo Papamalamis
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41883309.m3u8
+#EXTINF:-1 tvg-name="Laura Samson - Carolina Alves" group-title="Andro TV",[CANLI] Laura Samson - Carolina Alves
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41883325.m3u8
+#EXTINF:-1 tvg-name="Theodore Dean Aadarsh Tripathi - Eliot Nobel Maxime St-Hilaire" group-title="Andro TV",[CANLI] Theodore Dean Aadarsh Tripathi - Eliot Nobel Maxime St-Hilaire
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941624.m3u8
+#EXTINF:-1 tvg-name="Jessica Hinojosa Gomez - Midori Castillo Meza" group-title="Andro TV",[CANLI] Jessica Hinojosa Gomez - Midori Castillo Meza
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941618.m3u8
+#EXTINF:-1 tvg-name="Jessica Hinojosa Gomez - Midori Castillo Meza" group-title="Andro TV",[CANLI] Jessica Hinojosa Gomez - Midori Castillo Meza
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41883569.m3u8
+#EXTINF:-1 tvg-name="BARIS, OZAN - TARVET, OLIVER" group-title="Andro TV",[CANLI] BARIS, OZAN - TARVET, OLIVER
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941692.m3u8
+#EXTINF:-1 tvg-name="BEHAR A PARIS J - KALENDER A SERDARUSIC N" group-title="Andro TV",[CANLI] BEHAR A PARIS J - KALENDER A SERDARUSIC N
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941684.m3u8
+#EXTINF:-1 tvg-name="Aleksandr Smirnov - Nikita Volkov" group-title="Andro TV",[CANLI] Aleksandr Smirnov - Nikita Volkov
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941705.m3u8
+#EXTINF:-1 tvg-name="Olga Nuzhdina - Alexandra Golysheva" group-title="Andro TV",[CANLI] Olga Nuzhdina - Alexandra Golysheva
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941662.m3u8
+#EXTINF:-1 tvg-name="Wilson Leite Pedro Sakamoto - Agustin Eduardo Cuellar Lorberg Thiago Horacio Messa" group-title="Andro TV",[CANLI] Wilson Leite Pedro Sakamoto - Agustin Eduardo Cuellar Lorberg Thiago Horacio Messa
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941661.m3u8
+#EXTINF:-1 tvg-name="Marta Kostyuk - Jessica Pegula" group-title="Andro TV",[CANLI] Marta Kostyuk - Jessica Pegula
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41883235.m3u8
+#EXTINF:-1 tvg-name="Ozan Baris - Oliver Tarvet" group-title="Andro TV",[CANLI] Ozan Baris - Oliver Tarvet
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41883717.m3u8
+#EXTINF:-1 tvg-name="Cade Fernando - Lasse Rensing" group-title="Andro TV",[CANLI] Cade Fernando - Lasse Rensing
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941855.m3u8
+#EXTINF:-1 tvg-name="Michael Antonius - Michael Bassem Sobhy" group-title="Andro TV",[CANLI] Michael Antonius - Michael Bassem Sobhy
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941805.m3u8
+#EXTINF:-1 tvg-name="Maria Lourdes Carle - Valentina Mediorreal Arias" group-title="Andro TV",[CANLI] Maria Lourdes Carle - Valentina Mediorreal Arias
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941812.m3u8
+#EXTINF:-1 tvg-name="Maria Lourdes Carle - Valentina Mediorreal Arias" group-title="Andro TV",[CANLI] Maria Lourdes Carle - Valentina Mediorreal Arias
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41883957.m3u8
+#EXTINF:-1 tvg-name="Michael Antonius - Michael Bassem Sobhy" group-title="Andro TV",[CANLI] Michael Antonius - Michael Bassem Sobhy
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41883943.m3u8
+#EXTINF:-1 tvg-name="Ingrid Carolina Millan Acosta - Ana Carmen Zamburek" group-title="Andro TV",[CANLI] Ingrid Carolina Millan Acosta - Ana Carmen Zamburek
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941937.m3u8
+#EXTINF:-1 tvg-name="Nils Hoffmann - Zach Stevens" group-title="Andro TV",[CANLI] Nils Hoffmann - Zach Stevens
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20942005.m3u8
+#EXTINF:-1 tvg-name="Felipe Vazquez - David Fix" group-title="Andro TV",[CANLI] Felipe Vazquez - David Fix
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20942003.m3u8
+#EXTINF:-1 tvg-name="Francesco Cordova - Cooper Dillon" group-title="Andro TV",[CANLI] Francesco Cordova - Cooper Dillon
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941965.m3u8
+#EXTINF:-1 tvg-name="Ingrid Carolina Millan Acosta - Ana Carmen Zamburek" group-title="Andro TV",[CANLI] Ingrid Carolina Millan Acosta - Ana Carmen Zamburek
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41884207.m3u8
+#EXTINF:-1 tvg-name="Andrey Parfenov - Dmitry Turkin" group-title="Andro TV",[CANLI] Andrey Parfenov - Dmitry Turkin
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20941367.m3u8
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXT-X-REFERER:https://www.selcuksportshd14e17ba2ad.xyz/
 #EXT-X-ORIGIN:https://main.uxsyplayer6859599e6c.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd14e17ba2ad.xyz/
 #EXTVLCOPT:http-origin=https://main.uxsyplayer6859599e6c.click
-#EXTINF:-1 tvg-name="Spor Toto SK - Onikişubat Belediyespor - 19:30" group-title="Selçuk TV",Spor Toto SK - Onikişubat Belediyespor - 19:30
-https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcuktabiispor6/playlist.m3u8
-#EXTINF:-1 tvg-name="Sabah Bakü - Trabzonspor - 19:00" group-title="Selçuk TV",Sabah Bakü - Trabzonspor - 19:00
-https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcuktrtspor2/playlist.m3u8
-#EXTINF:-1 tvg-name="Cluj Napoca - Türk Telekom - 20:00" group-title="Selçuk TV",Cluj Napoca - Türk Telekom - 20:00
+#EXTINF:-1 tvg-name="Kepez Bld. - Balıkesirspor - 13:00" group-title="Selçuk TV",Kepez Bld. - Balıkesirspor - 13:00
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcuktivibuspor1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pazarspor - Kartal Bulvar Kartalimen - 13:00" group-title="Selçuk TV",Pazarspor - Kartal Bulvar Kartalimen - 13:00
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcuktivibuspor2/playlist.m3u8
+#EXTINF:-1 tvg-name="Eskişehir Anadolu Spor - Eskişehirspor - 13:00" group-title="Selçuk TV",Eskişehir Anadolu Spor - Eskişehirspor - 13:00
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcuktivibuspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Yıldırımspor - Etimesgut Bld. - 13:00" group-title="Selçuk TV",Yıldırımspor - Etimesgut Bld. - 13:00
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcuktivibuspor3/playlist.m3u8
+#EXTINF:-1 tvg-name="Bitlis 1916 FK - Diyarbekirspor - 13:00" group-title="Selçuk TV",Bitlis 1916 FK - Diyarbekirspor - 13:00
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcuktivibuspor4/playlist.m3u8
+#EXTINF:-1 tvg-name="Karşıyaka - Gemlik Sümerbey - 15:30" group-title="Selçuk TV",Karşıyaka - Gemlik Sümerbey - 15:30
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcuktivibuspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Denizli İdmanyurdu Güreller - Bucaspor - 15:30" group-title="Selçuk TV",Denizli İdmanyurdu Güreller - Bucaspor - 15:30
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcuktivibuspor1/playlist.m3u8
+#EXTINF:-1 tvg-name="Silifke Bld. - Mersin İY - 19:00" group-title="Selçuk TV",Silifke Bld. - Mersin İY - 19:00
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcuktivibuspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Galatasaray - Gebze Bld. - 19:00" group-title="Selçuk TV",Galatasaray - Gebze Bld. - 19:00
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcuktabiispor/playlist.m3u8
+#EXTINF:-1 tvg-name="Fenerbahçe ArsaVev - Real Sociedad - 20:00" group-title="Selçuk TV",Fenerbahçe ArsaVev - Real Sociedad - 20:00
 https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcuktrtspor/playlist.m3u8
-#EXTINF:-1 tvg-name="Energia Trento - Tofaş - 22:00" group-title="Selçuk TV",Energia Trento - Tofaş - 22:00
+#EXTINF:-1 tvg-name="Duke - Michigan State - 03:00" group-title="Selçuk TV",Duke - Michigan State - 03:00
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcukssport2/playlist.m3u8
+#EXTINF:-1 tvg-name="Michigan St - Duke - 03:00" group-title="Selçuk TV",Michigan St - Duke - 03:00
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcukssplus1/playlist.m3u8
+#EXTINF:-1 tvg-name="Philadelphia 76ers - Boston Celtics - 04:00" group-title="Selçuk TV",Philadelphia 76ers - Boston Celtics - 04:00
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcukssport/playlist.m3u8
+#EXTINF:-1 tvg-name="Boston Celtics - Philadelphia 76ers - 04:00" group-title="Selçuk TV",Boston Celtics - Philadelphia 76ers - 04:00
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcukssplus2/playlist.m3u8
+#EXTINF:-1 tvg-name="Kentucky Wildcats - Kansas Chiefs - 05:30" group-title="Selçuk TV",Kentucky Wildcats - Kansas Chiefs - 05:30
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcukssport2/playlist.m3u8
+#EXTINF:-1 tvg-name="Türkiye - Karadağ - 19:00" group-title="Selçuk TV",Türkiye - Karadağ - 19:00
 https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcuktrtspor2/playlist.m3u8
-#EXTINF:-1 tvg-name="M.Kostyuk - J.Pegula - 23:00" group-title="Selçuk TV",M.Kostyuk - J.Pegula - 23:00
+#EXTINF:-1 tvg-name="Bahçeşehir Klj - BC Lietkabelis - 19:00" group-title="Selçuk TV",Bahçeşehir Klj - BC Lietkabelis - 19:00
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcuktrtspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Paris - Fenerbahçe Tarfin - 22:45" group-title="Selçuk TV",Paris - Fenerbahçe Tarfin - 22:45
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcukssport/playlist.m3u8
+#EXTINF:-1 tvg-name="Partizan - Baskonia - 22:45" group-title="Selçuk TV",Partizan - Baskonia - 22:45
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcukssport2/playlist.m3u8
+#EXTINF:-1 tvg-name="C.Gauff - L.Noskova - 00:30" group-title="Selçuk TV",C.Gauff - L.Noskova - 00:30
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcukbeinsportsmax1/playlist.m3u8
+#EXTINF:-1 tvg-name="Siniakova/Townsend - Perez/Schuurs - 02:00" group-title="Selçuk TV",Siniakova/Townsend - Perez/Schuurs - 02:00
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcukbeinconnect1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bucsa/Melichar - Errani/Paolini - 03:30" group-title="Selçuk TV",Bucsa/Melichar - Errani/Paolini - 03:30
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcukbeinconnect1/playlist.m3u8
+#EXTINF:-1 tvg-name="E.Svitolina - K.Muchova - 23:00" group-title="Selçuk TV",E.Svitolina - K.Muchova - 23:00
 https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcukbeinsportsmax1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1" group-title="Selçuk TV",Bein Sports 1
 https://andro.evrenesoglu235.click/checklist/androstreamlivebs1.m3u8
@@ -587,7 +599,7 @@ https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcukbeinsportshaber/playlist
 #EXTINF:-1 tvg-name="Bein Sports Max 1" group-title="Selçuk TV",Bein Sports Max 1
 https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcukbeinsportsmax1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports Max 2" group-title="Selçuk TV",Bein Sports Max 2
-https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcukbeinsportsmax2/playlist.m3u8
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/beinsportsmax2/playlist.m3u8
 #EXTINF:-1 tvg-name="S Sport" group-title="Selçuk TV",S Sport
 https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="S Sport 2" group-title="Selçuk TV",S Sport 2
@@ -610,18 +622,32 @@ https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcuktivibuspor4/playlist.m3u
 https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcuktabiispor/playlist.m3u8
 #EXTINF:-1 tvg-name="tabii Spor 1" group-title="Selçuk TV",tabii Spor 1
 https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcuktabiispor1/playlist.m3u8
+#EXTINF:-1 tvg-name="tabii Spor 2" group-title="Selçuk TV",tabii Spor 2
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcuktabiispor2/playlist.m3u8
 #EXTINF:-1 tvg-name="tabii Spor 3" group-title="Selçuk TV",tabii Spor 3
 https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcuktabiispor3/playlist.m3u8
 #EXTINF:-1 tvg-name="tabii Spor 4" group-title="Selçuk TV",tabii Spor 4
-https://dga1op10s1u3lea.aae77b66b9d557.click/live/tabiispor4/playlist.m3u8
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcuktabiispor4/playlist.m3u8
 #EXTINF:-1 tvg-name="tabii Spor 5" group-title="Selçuk TV",tabii Spor 5
 https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcuktabiispor5/playlist.m3u8
 #EXTINF:-1 tvg-name="tabii Spor 6" group-title="Selçuk TV",tabii Spor 6
 https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcuktabiispor6/playlist.m3u8
+#EXTINF:-1 tvg-name="tabii Spor 7" group-title="Selçuk TV",tabii Spor 7
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcuktabiispor7/playlist.m3u8
 #EXTINF:-1 tvg-name="S Sport Plus 1" group-title="Selçuk TV",S Sport Plus 1
-https://dga1op10s1u3lea.aae77b66b9d557.click/live/ssplus1/playlist.m3u8
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcukssplus1/playlist.m3u8
+#EXTINF:-1 tvg-name="S Sport Plus 2" group-title="Selçuk TV",S Sport Plus 2
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcukssplus2/playlist.m3u8
 #EXTINF:-1 tvg-name="S Sport Plus 4" group-title="Selçuk TV",S Sport Plus 4
 https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcukssplus4/playlist.m3u8
+#EXTINF:-1 tvg-name="S Sport Plus 5" group-title="Selçuk TV",S Sport Plus 5
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcukssplus5/playlist.m3u8
+#EXTINF:-1 tvg-name="S Sport Plus 7" group-title="Selçuk TV",S Sport Plus 7
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcukssplus7/playlist.m3u8
+#EXTINF:-1 tvg-name="S Sport Plus 8" group-title="Selçuk TV",S Sport Plus 8
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcukssplus8/playlist.m3u8
+#EXTINF:-1 tvg-name="A Spor" group-title="Selçuk TV",A Spor
+https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcukaspor/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT Spor" group-title="Selçuk TV",TRT Spor
 https://dga1op10s1u3lea.aae77b66b9d557.click/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT Spor 2" group-title="Selçuk TV",TRT Spor 2
